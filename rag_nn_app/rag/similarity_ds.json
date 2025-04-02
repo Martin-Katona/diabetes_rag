@@ -1,0 +1,1202 @@
+[
+  {
+    "example_number": 1,
+    "statement1": "If you don't have diabetes, your body can usually handle this. But if you have diabetes, especially if you don't have enough insulin, your body may not be able to use the extra sugar properly.",
+    "statement2": "For those without diabetes, the body typically manages this well. However, in people with diabetes, particularly when insulin levels are insufficient, the body may struggle to process additional sugar effectively.",
+    "similarity": 1
+  },
+  {
+    "example_number": 2,
+    "statement1": "Studies on stress in people with type 1 diabetes have had mixed results. Some studies suggest stress can trigger type 1 diabetes, while others show stress can prevent it in animals.",
+    "statement2": "Research on stress and type 1 diabetes has yielded conflicting outcomes. While some studies indicate stress may initiate type 1 diabetes, others suggest it could prevent the condition in animal models.",
+    "similarity": 1
+  },
+  {
+    "example_number": 3,
+    "statement1": "In people who already have type 1 diabetes, stress might raise, lower, or not affect blood sugar levels at all. This might be because of nerve damage, which is common in type 1 diabetes.",
+    "statement2": "For individuals with type 1 diabetes, stress can either increase, decrease, or have no impact on blood sugar levels. This variability may be due to nerve damage, a frequent complication of the disease.",
+    "similarity": 1
+  },
+  {
+    "example_number": 4,
+    "statement1": "For type 2 diabetes, the link with stress is clearer. Animal studies show stress often leads to high blood sugar.",
+    "statement2": "The connection between stress and type 2 diabetes is more evident. Research on animals indicates that stress frequently results in elevated blood sugar levels.",
+    "similarity": 1
+  },
+  {
+    "example_number": 5,
+    "statement1": "There's also growing evidence that the nervous system plays a role in how stress affects blood sugar in both people and animals with type 2 diabetes.",
+    "statement2": "Increasing evidence suggests that the nervous system influences how stress impacts blood sugar in individuals and animals with type 2 diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 6,
+    "statement1": "It's not clear how drinking alcohol affects diabetes risk.",
+    "statement2": "The relationship between alcohol consumption and diabetes risk remains unclear.",
+    "similarity": 1
+  },
+  {
+    "example_number": 7,
+    "statement1": "Some think heavy drinking could increase the risk because it can harm the liver.",
+    "statement2": "Heavy alcohol consumption may raise the risk of diabetes, potentially due to its damaging effects on the liver.",
+    "similarity": 1
+  },
+  {
+    "example_number": 8,
+    "statement1": "But other studies haven't found this link. Alcohol has extra calories and can affect the liver and pancreas, which could be reasons for concern.",
+    "statement2": "However, other research has not identified this connection. Alcohol contains additional calories and can impact the liver and pancreas, raising potential concerns.",
+    "similarity": 1
+  },
+  {
+    "example_number": 9,
+    "statement1": "One study didn't see a link between drinking and diabetes in men.",
+    "statement2": "A study found no association between alcohol consumption and diabetes in male participants.",
+    "similarity": 1
+  },
+  {
+    "example_number": 10,
+    "statement1": "However, women who drank even occasionally seemed to have a lower risk compared to women who didn't drink, especially younger women.",
+    "statement2": "On the other hand, women who consumed alcohol occasionally appeared to have a reduced risk of diabetes compared to non-drinkers, particularly among younger women.",
+    "similarity": 1
+  },
+  {
+    "example_number": 11,
+    "statement1": "The study called anyone who drank at least once a month a \"regular drinker,\" so it couldn't really see the effects of heavy drinking.",
+    "statement2": "The study classified anyone drinking at least monthly as a \"regular drinker,\" making it difficult to assess the impact of heavy alcohol consumption.",
+    "similarity": 1
+  },
+  {
+    "example_number": 12,
+    "statement1": "People who used to drink had higher rates of diabetes, but this might be because doctors told them to stop drinking after they were diagnosed.",
+    "statement2": "Former drinkers showed higher diabetes rates, possibly because they were advised to quit alcohol after their diagnosis.",
+    "similarity": 1
+  },
+  {
+    "example_number": 13,
+    "statement1": "Right now, there's not enough proof to recommend drinking for any health benefits related to diabetes.",
+    "statement2": "Currently, there is insufficient evidence to suggest alcohol consumption for diabetes-related health benefits.",
+    "similarity": 1
+  },
+  {
+    "example_number": 14,
+    "statement1": "To really know if exercise prevents diabetes, we need strong experimental proof.",
+    "statement2": "Strong experimental evidence is required to determine whether exercise can prevent diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 15,
+    "statement1": "Some recent research shows that making major changes to your life, especially adding more physical activity, can delay the start of diabetes in people who are at high risk of developing it.",
+    "statement2": "Recent studies indicate that significant lifestyle changes, particularly increasing physical activity, can postpone the onset of diabetes in high-risk individuals.",
+    "similarity": 1
+  },
+  {
+    "example_number": 16,
+    "statement1": "One study in China looked at people with blood sugar issues and divided them into four groups. There was a control group that didn't make any changes, a group that focused on diet, a group that focused on exercise, and a group that combined diet and exercise.",
+    "statement2": "A Chinese study examined individuals with blood sugar problems, dividing them into four groups: a control group with no changes, a diet-focused group, an exercise-focused group, and a group combining diet and exercise.",
+    "similarity": 1
+  },
+  {
+    "example_number": 17,
+    "statement1": "The people in the exercise group were much less likely to develop diabetes compared to the control group.",
+    "statement2": "Participants in the exercise group had a significantly lower likelihood of developing diabetes compared to the control group.",
+    "similarity": 1
+  },
+  {
+    "example_number": 18,
+    "statement1": "The group that combined diet and exercise had similar positive results, and both of those groups did better than the group that only changed their diet.",
+    "statement2": "The group that combined diet and exercise showed similarly positive outcomes, outperforming the group that only modified their diet.",
+    "similarity": 1
+  },
+  {
+    "example_number": 19,
+    "statement1": "However, there have been some questions about how CAPPP was done. Also, the ABCD study didn't see any effect in people with normal blood pressure. This makes us wonder if these results really mean the medicines have an extra benefit beyond just lowering blood pressure.",
+    "statement2": "Concerns have been raised about the methodology of CAPPP. Additionally, the ABCD study found no effect in individuals with normal blood pressure, raising questions about whether the medications offer benefits beyond blood pressure reduction.",
+    "similarity": 1
+  },
+  {
+    "example_number": 20,
+    "statement1": "Two large studies, one in Finland and one in the United States, examined how making comprehensive lifestyle changes affected the risk of developing diabetes in people who already had blood sugar problems.",
+    "statement2": "Two major studies, conducted in Finland and the United States, investigated the impact of comprehensive lifestyle changes on diabetes risk in individuals with existing blood sugar issues.",
+    "similarity": 1
+  },
+  {
+    "example_number": 21,
+    "statement1": "These lifestyle changes included getting regular physical activity (aiming for at least 150 minutes per week of moderate-intensity exercise), losing a small amount of weight (around 7% of their starting weight), eating less fat, and increasing their intake of whole grains, fruits, and vegetables.",
+    "statement2": "The lifestyle changes involved regular physical activity (at least 150 minutes of moderate exercise weekly), modest weight loss (about 7% of initial weight), reduced fat intake, and increased consumption of whole grains, fruits, and vegetables.",
+    "similarity": 1
+  },
+  {
+    "example_number": 22,
+    "statement1": "The results of both studies were very similar. Over a period of several years, the people who consistently made these lifestyle changes were significantly less likely to develop diabetes compared to the people in the control groups who didn't make these changes.",
+    "statement2": "Both studies yielded similar results. Over several years, those who consistently implemented these lifestyle changes were far less likely to develop diabetes compared to control groups that made no changes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 23,
+    "statement1": "Several previous studies have looked at the link between eating fruits and vegetables and the risk of getting type 2 diabetes. Two studies also looked at the link between fiber intake and diabetes risk. But this new study is more up-to-date.",
+    "statement2": "Previous research has explored the connection between fruit and vegetable consumption and type 2 diabetes risk, as well as fiber intake. However, this new study provides more current insights.",
+    "similarity": 1
+  },
+  {
+    "example_number": 24,
+    "statement1": "This study shows that eating more fruit is linked to a lower risk of type 2 diabetes.",
+    "statement2": "The study indicates that increased fruit consumption is associated with a reduced risk of type 2 diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 25,
+    "statement1": "Unlike some earlier studies that had mixed results, this study found similar results to a specific analysis that looked at the length of follow-up time.",
+    "statement2": "In contrast to earlier studies with inconsistent findings, this study aligns with a specific analysis considering follow-up duration.",
+    "similarity": 1
+  },
+  {
+    "example_number": 26,
+    "statement1": "The study also found that eating berries, in particular, was linked to a lower risk of type 2 diabetes.",
+    "statement2": "The study also revealed that consuming berries, specifically, is associated with a decreased risk of type 2 diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 27,
+    "statement1": "Plus, when looking at high-quality studies, it was found that eating lots of fruit fiber reduced the risk of type 2 diabetes.",
+    "statement2": "Additionally, high-quality studies showed that a high intake of fruit fiber is linked to a lower risk of type 2 diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 28,
+    "statement1": "Like previous studies, this one found that eating vegetables, in general, wasn't clearly linked to a lower risk of type 2 diabetes.",
+    "statement2": "Consistent with prior research, this study found no clear association between overall vegetable consumption and a reduced risk of type 2 diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 29,
+    "statement1": "However, the study did find that eating more green leafy vegetables, yellow vegetables, or cruciferous vegetables (like broccoli and cabbage) could help lower the risk.",
+    "statement2": "However, the study did suggest that consuming more green leafy, yellow, or cruciferous vegetables (such as broccoli and cabbage) may help reduce the risk.",
+    "similarity": 1
+  },
+  {
+    "example_number": 30,
+    "statement1": "It also found that eating lots of vegetable fiber reduced the risk of type 2 diabetes when looking at studies that followed people for 10 years or more.",
+    "statement2": "The study also found that high vegetable fiber intake was associated with a lower risk of type 2 diabetes in studies with follow-up periods of 10 years or more.",
+    "similarity": 1
+  },
+  {
+    "example_number": 31,
+    "statement1": "This study is strong because it looked at a large number of studies on fruit, vegetables, fiber, and diabetes risk. This helps to avoid bias and allows for more detailed analysis.",
+    "statement2": "The study's strength lies in its analysis of numerous studies on fruit, vegetables, fiber, and diabetes risk, reducing bias and enabling more comprehensive analysis.",
+    "similarity": 1
+  },
+  {
+    "example_number": 32,
+    "statement1": "Also, the studies were checked for quality, and most were high-quality with large groups of people and long follow-up times.",
+    "statement2": "Additionally, the studies were quality-checked, with most being high-quality, involving large participant groups and extended follow-up periods.",
+    "similarity": 1
+  },
+  {
+    "example_number": 33,
+    "statement1": "This study looked at how eating a lot of cholesterol affects your chances of getting type 2 diabetes. Researchers compared people who ate the most cholesterol to those who ate the least.",
+    "statement2": "The study examined the impact of high cholesterol intake on the risk of type 2 diabetes, comparing individuals with the highest and lowest cholesterol consumption.",
+    "similarity": 1
+  },
+  {
+    "example_number": 34,
+    "statement1": "They also calculated how much the risk of diabetes changed for every extra 100 mg of cholesterol people ate each day.... If studies only gave cholesterol intake as categories (like low, medium, high), researchers used a special method to estimate the risk in each study.",
+    "statement2": "They also determined the change in diabetes risk for every additional 100 mg of daily cholesterol intake. For studies categorizing cholesterol intake (e.g., low, medium, high), a specialized method was used to estimate risk.",
+    "similarity": 1
+  },
+  {
+    "example_number": 35,
+    "statement1": "This method helped them account for the relationships between different risk estimates from the same study. Then, they used a statistical technique to estimate the overall trend.",
+    "statement2": "This approach allowed them to account for relationships between risk estimates within the same study, followed by a statistical technique to estimate the overall trend.",
+    "similarity": 1
+  },
+  {
+    "example_number": 36,
+    "statement1": "In both types of analysis, the risk in each study was converted to a natural logarithm. These values were combined using a method that gives more weight to studies with more precise results.",
+    "statement2": "In both analyses, the risk from each study was converted to a natural logarithm, and these values were combined, giving more weight to studies with greater precision.",
+    "similarity": 1
+  },
+  {
+    "example_number": 37,
+    "statement1": "If there was significant variation between studies, a random-effects model was used; otherwise, a fixed-effects model was used. The overall risk was then calculated.",
+    "statement2": "A random-effects model was used if significant variation existed between studies; otherwise, a fixed-effects model was applied, and the overall risk was calculated.",
+    "similarity": 1
+  },
+  {
+    "example_number": 38,
+    "statement1": "Researchers also conducted additional analyses, dividing the studies based on factors like study quality, how long people were followed, participants' sex, how diabetes was identified, and whether the study adjusted for total energy intake. They also used statistical methods to see if any of these factors significantly influenced the results.",
+    "statement2": "Additional analyses were performed, categorizing studies by factors such as quality, follow-up duration, participant sex, diabetes identification methods, and adjustments for total energy intake. Statistical methods were used to assess the influence of these factors on the results.",
+    "similarity": 1
+  },
+  {
+    "example_number": 39,
+    "statement1": "It's important to be careful when looking at these estimates of lifetime diabetes risk. These risks are for an \"average person\" in the U.S. in 2004.",
+    "statement2": "Caution is advised when interpreting these lifetime diabetes risk estimates, as they are based on the \"average person\" in the U.S. in 2004.",
+    "similarity": 1
+  },
+  {
+    "example_number": 40,
+    "statement1": "Things like how overweight someone is, their genes, diet, how active they are, and their socioeconomic situation can make their individual risk higher or lower than the average.",
+    "statement2": "Factors such as weight, genetics, diet, physical activity, and socioeconomic status can cause individual risk to vary from the average.",
+    "similarity": 1
+  },
+  {
+    "example_number": 41,
+    "statement1": "The information about diabetes diagnoses and BMI (body mass index) in this study was based on what people reported themselves. People are generally pretty accurate when they self-report diabetes in surveys.",
+    "statement2": "The study relied on self-reported data for diabetes diagnoses and BMI. Self-reported diabetes information in surveys is generally accurate.",
+    "similarity": 1
+  },
+  {
+    "example_number": 42,
+    "statement1": "However, people who are heavier tend to underestimate their weight, and shorter people tend to overestimate their height. The accuracy of these reports can depend on how the information is collected.",
+    "statement2": "However, heavier individuals often underestimate their weight, and shorter people may overestimate their height. The accuracy of these reports can vary based on data collection methods.",
+    "similarity": 1
+  },
+  {
+    "example_number": 43,
+    "statement1": "For example, people are more likely to be inaccurate when reporting their weight over the phone than in person. But in studies with careful in-person interviews, self-reported weight and height are just as reliable as measured weight and height.",
+    "statement2": "For instance, weight reporting over the phone is less accurate than in-person reporting. However, in studies with thorough in-person interviews, self-reported weight and height are as reliable as measured values.",
+    "similarity": 1
+  },
+  {
+    "example_number": 44,
+    "statement1": "This study assumes that diabetes rates will stay the same over time. However, obesity is increasing rapidly in the U.S., which could cause diabetes rates to rise in the future.",
+    "statement2": "The study assumes constant diabetes rates over time, but the rapid rise in U.S. obesity may lead to increased diabetes rates in the future.",
+    "similarity": 1
+  },
+  {
+    "example_number": 45,
+    "statement1": "Also, people are expected to live longer, especially certain ethnic groups, which will increase the average lifetime risk of diabetes.",
+    "statement2": "Additionally, increased life expectancy, particularly among certain ethnic groups, will raise the average lifetime risk of diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 46,
+    "statement1": "However, these estimates take into account diabetes rates and death rates specific to age, sex, race/ethnicity, and BMI.",
+    "statement2": "However, these estimates consider diabetes and death rates specific to age, sex, race/ethnicity, and BMI.",
+    "similarity": 1
+  },
+  {
+    "example_number": 47,
+    "statement1": "Type 1 diabetes happens when the body's immune system attacks and destroys the cells in the pancreas that make insulin.",
+    "statement2": "Type 1 diabetes occurs when the immune system attacks and destroys insulin-producing cells in the pancreas.",
+    "similarity": 1
+  },
+  {
+    "example_number": 48,
+    "statement1": "Insulin is super important because it helps your body use sugar for energy. Without it, sugar builds up in your blood, which can cause a lot of problems.",
+    "statement2": "Insulin is crucial as it enables the body to use sugar for energy. Without insulin, sugar accumulates in the blood, leading to various complications.",
+    "similarity": 1
+  },
+  {
+    "example_number": 49,
+    "statement1": "Doctors are realizing that the speed at which these insulin-producing cells are destroyed can vary. It's usually faster in young kids, but slower in adults.",
+    "statement2": "Doctors have observed that the rate at which insulin-producing cells are destroyed varies, typically being faster in children and slower in adults.",
+    "similarity": 1
+  },
+  {
+    "example_number": 50,
+    "statement1": "Childhood diabetes is easier to study because kids with the disease tend to have similar characteristics and are easily found within the healthcare system. Also, in Western countries, they almost always have the autoimmune version of the disease.",
+    "statement2": "Childhood diabetes is more straightforward to study as affected children share similar traits and are easily identified in healthcare systems. In Western countries, the disease is almost always autoimmune.",
+    "similarity": 1
+  },
+  {
+    "example_number": 51,
+    "statement1": "These kids often have specific genetic markers and certain antibodies in their blood.",
+    "statement2": "These children frequently exhibit specific genetic markers and antibodies in their blood.",
+    "similarity": 1
+  },
+  {
+    "example_number": 52,
+    "statement1": "In adults, however, autoimmune diabetes is harder to identify. It shows up in different ways, with varying degrees of insulin deficiency, genetic markers, and antibodies.",
+    "statement2": "In adults, autoimmune diabetes is more challenging to diagnose, presenting with varying levels of insulin deficiency, genetic markers, and antibodies.",
+    "similarity": 1
+  },
+  {
+    "example_number": 53,
+    "statement1": "These features are less obvious in adults compared to children, and sometimes they're not there at all. In older people, it can be difficult to tell the difference between autoimmune diabetes and regular, non-immune diabetes.",
+    "statement2": "These characteristics are less pronounced in adults and may be absent altogether. In older individuals, distinguishing between autoimmune and non-immune diabetes can be difficult.",
+    "similarity": 1
+  },
+  {
+    "example_number": 54,
+    "statement1": "Some older patients have specific antibodies that indicate they have autoimmune diabetes.",
+    "statement2": "Certain older patients possess specific antibodies that signal autoimmune diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 55,
+    "statement1": "However, even within this group, there's variation. Those with higher levels of these antibodies are more likely to have certain genetic markers.",
+    "statement2": "Even within this group, there is variability. Individuals with higher antibody levels are more likely to exhibit specific genetic markers.",
+    "similarity": 1
+  },
+  {
+    "example_number": 56,
+    "statement1": "This form of diabetes in adults is sometimes called \"latent autoimmune diabetes of adults\" (LADA). Because it's hard to clearly define, it's difficult to study its frequency and how it develops.",
+    "statement2": "This adult form of diabetes is sometimes referred to as \"latent autoimmune diabetes of adults\" (LADA). Its unclear definition makes it challenging to study its prevalence and progression.",
+    "similarity": 1
+  },
+  {
+    "example_number": 57,
+    "statement1": "We don't know a lot about how common autoimmune diabetes is in older adults or how it progresses. However, one study suggested that almost half of all cases of what's considered Type 1 diabetes actually start after age 40.",
+    "statement2": "Little is known about the prevalence and progression of autoimmune diabetes in older adults. However, one study indicated that nearly half of Type 1 diabetes cases begin after age 40.",
+    "similarity": 1
+  },
+  {
+    "example_number": 58,
+    "statement1": "The ALLHAT study is the largest study of its kind to date. It compared chlorthalidone, amlodipine, and lisinopril in over 33,000 patients, including people with type 2 diabetes, over 4–8 years.",
+    "statement2": "The ALLHAT study, the largest of its kind, compared chlorthalidone, amlodipine, and lisinopril in over 33,000 patients, including those with type 2 diabetes, over a 4–8 year period.",
+    "similarity": 1
+  },
+  {
+    "example_number": 59,
+    "statement1": "In the diabetic group, there were no major differences in heart attacks, deaths, strokes, heart disease, or overall heart issues between the different treatments.",
+    "statement2": "In the diabetic group, no significant differences were observed in heart attacks, deaths, strokes, heart disease, or overall heart issues across the different treatments.",
+    "similarity": 1
+  },
+  {
+    "example_number": 60,
+    "statement1": "Chlorthalidone did show a benefit in preventing heart failure, but this is debated because the diagnosis of heart failure was mainly based on symptoms and not always confirmed with tests.",
+    "statement2": "Chlorthalidone demonstrated a benefit in preventing heart failure, though this is debated as the diagnosis was primarily symptom-based and not always confirmed with tests.",
+    "similarity": 1
+  },
+  {
+    "example_number": 61,
+    "statement1": "Also, diuretics like chlorthalidone might hide some of the key signs of heart failure compared to the other drugs.",
+    "statement2": "Additionally, diuretics like chlorthalidone may mask some key signs of heart failure compared to other medications.",
+    "similarity": 1
+  },
+  {
+    "example_number": 62,
+    "statement1": "Therefore, when talking about whether Type 1 diabetes affects one sex more than the other, we can be pretty confident about the numbers for children. We're less confident about young adults, and we can't really say anything for sure about people over 50.... For children under 15, there's a slight tendency for more boys to have the disease in Europe and in populations with European roots. However, in populations with African or Asian roots, there are more girls with the disease.",
+    "statement2": "Thus, when discussing whether Type 1 diabetes affects one sex more than the other, we can be fairly confident about the data for children. We are less certain about young adults and cannot make definitive statements about individuals over 50. In Europe and populations of European descent, boys under 15 are slightly more likely to have the disease, while in African or Asian populations, more girls are affected.",
+    "similarity": 1
+  },
+  {
+    "example_number": 63,
+    "statement1": "Interestingly, countries with a higher rate of diabetes in children tend to have more boys affected, while countries with a lower rate tend to have more girls affected. The reason for this is unknown.",
+    "statement2": "Interestingly, in countries with higher childhood diabetes rates, more boys are affected, whereas in countries with lower rates, more girls are affected. The reason for this pattern remains unknown.",
+    "similarity": 1
+  },
+  {
+    "example_number": 64,
+    "statement1": "While childhood diabetes has been studied a lot, we don't know as much about autoimmune diabetes in adults. As people get older, it becomes harder to distinguish autoimmune diabetes from Type 2 diabetes.",
+    "statement2": "Although childhood diabetes has been extensively studied, less is known about autoimmune diabetes in adults. Distinguishing it from Type 2 diabetes becomes more challenging with age.",
+    "similarity": 1
+  },
+  {
+    "example_number": 65,
+    "statement1": "However, some studies have looked at adults who require insulin and have found that more men than women are diagnosed with Type 1 diabetes after age 14.",
+    "statement2": "However, studies on adults requiring insulin have found that more men than women are diagnosed with Type 1 diabetes after age 14.",
+    "similarity": 1
+  },
+  {
+    "example_number": 66,
+    "statement1": "Generally, when people with diabetes drink too much, their blood sugar control gets worse, but it can get better if they stop drinking.",
+    "statement2": "Typically, excessive alcohol consumption worsens blood sugar control in people with diabetes, but improvement can occur if they stop drinking.",
+    "similarity": 1
+  },
+  {
+    "example_number": 67,
+    "statement1": "However, their blood sugar issues are usually related to more than just alcohol; their lifestyle, social life, and stress levels also play a role.",
+    "statement2": "However, blood sugar issues in these individuals are often influenced by factors beyond alcohol, including lifestyle, social life, and stress levels.",
+    "similarity": 1
+  },
+  {
+    "example_number": 68,
+    "statement1": "On the other hand, there's evidence that moderate drinking doesn't harm blood sugar control and might even make the body more sensitive to insulin.",
+    "statement2": "On the other hand, evidence suggests that moderate alcohol consumption does not impair blood sugar control and may even enhance insulin sensitivity.",
+    "similarity": 1
+  },
+  {
+    "example_number": 69,
+    "statement1": "One of the first studies to suggest this showed that moderate alcohol use was linked to lower insulin levels after eating.",
+    "statement2": "One of the earliest studies to propose this found that moderate alcohol consumption was associated with lower post-meal insulin levels.",
+    "similarity": 1
+  },
+  {
+    "example_number": 70,
+    "statement1": "Heart disease is the biggest killer of people with diabetes, even those with severe kidney disease. So, it's the main thing to watch when deciding how well blood pressure medicine is working.",
+    "statement2": "Heart disease is the leading cause of death among people with diabetes, including those with severe kidney disease. Therefore, it is the primary focus when evaluating the effectiveness of blood pressure medication.",
+    "similarity": 1
+  },
+  {
+    "example_number": 71,
+    "statement1": "Right now, the best evidence that different blood pressure medicines work differently on heart health comes from a study called LIFE.",
+    "statement2": "Currently, the strongest evidence that different blood pressure medications have varying effects on heart health comes from the LIFE study.",
+    "similarity": 1
+  },
+  {
+    "example_number": 72,
+    "statement1": "This study compared atenolol to losartan in people with high blood pressure and heart problems, including people with diabetes.",
+    "statement2": "This study compared atenolol and losartan in individuals with high blood pressure and heart issues, including those with diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 73,
+    "statement1": "During the study, which lasted nearly five years, blood pressure went down about the same amount in those taking either medicine.",
+    "statement2": "Over the nearly five-year study period, blood pressure decreased similarly in participants taking either medication.",
+    "similarity": 1
+  },
+  {
+    "example_number": 74,
+    "statement1": "However, losartan lowered the risk of death and major heart problems like stroke or heart attack better than atenolol. The biggest difference was fewer deaths from heart problems with losartan.",
+    "statement2": "However, losartan was more effective than atenolol in reducing the risk of death and major heart issues like stroke or heart attack, with the most significant difference being fewer heart-related deaths.",
+    "similarity": 1
+  },
+  {
+    "example_number": 75,
+    "statement1": "We should think about the LIFE study together with other smaller studies that looked at heart health in people with diabetes. Besides LIFE, two other studies, CAPPP and ABCD, showed that one type of blood pressure medicine could lower the risk of major heart events (mostly heart problems) compared to another.",
+    "statement2": "The LIFE study should be considered alongside other smaller studies on heart health in people with diabetes. In addition to LIFE, the CAPPP and ABCD studies demonstrated that one type of blood pressure medication could reduce the risk of major heart events compared to another.",
+    "similarity": 1
+  },
+  {
+    "example_number": 76,
+    "statement1": "CAPPP compared an ACE inhibitor to a diuretic/beta-blocker, and ABCD compared an ACE inhibitor to a calcium channel blocker.",
+    "statement2": "CAPPP compared an ACE inhibitor with a diuretic/beta-blocker, while ABCD compared an ACE inhibitor with a calcium channel blocker.",
+    "similarity": 1
+  },
+  {
+    "example_number": 77,
+    "statement1": "Stress can make blood sugar control harder in people with diabetes.",
+    "statement2": "Stress can complicate blood sugar management in individuals with diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 78,
+    "statement1": "When you're stressed, your body releases hormones to give you energy for \"fight or flight.\" These hormones can raise blood sugar levels.",
+    "statement2": "During stress, the body releases hormones to prepare for \"fight or flight,\" which can elevate blood sugar levels.",
+    "similarity": 1
+  },
+  {
+    "example_number": 79,
+    "statement1": "Other studies have reported similar findings in different groups of people. Studies have also shown that moderate drinkers have better insulin-mediated glucose uptake compared to non-drinkers.",
+    "statement2": "Other studies have found similar results across various groups. Research also indicates that moderate drinkers have improved insulin-mediated glucose uptake compared to non-drinkers.",
+    "similarity": 1
+  },
+  {
+    "example_number": 80,
+    "statement1": "Some studies suggest that the relationship between alcohol and insulin sensitivity is J-shaped.",
+    "statement2": "Some studies propose that the relationship between alcohol and insulin sensitivity follows a J-shaped curve.",
+    "similarity": 1
+  },
+  {
+    "example_number": 81,
+    "statement1": "Moderate drinkers have the best insulin levels and insulin resistance, while people who don't drink or drink heavily have higher levels. However, this might be because of factors like body weight and belly fat.",
+    "statement2": "Moderate drinkers exhibit optimal insulin levels and resistance, while non-drinkers and heavy drinkers have higher levels. This may be influenced by factors such as body weight and abdominal fat.",
+    "similarity": 1
+  },
+  {
+    "example_number": 82,
+    "statement1": "A recent study showed that men who smoke a lot (more than 20 cigarettes a day) have a much higher risk of diabetes.",
+    "statement2": "A recent study found that men who smoke heavily (more than 20 cigarettes daily) have a significantly higher risk of diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 83,
+    "statement1": "There was also a link between smoking more and a higher risk, and people who had quit smoking had almost normal risk levels. Other studies have confirmed these findings in men.",
+    "statement2": "Increased smoking was also linked to higher risk, while former smokers had nearly normal risk levels. Other studies have confirmed these findings in men.",
+    "similarity": 1
+  },
+  {
+    "example_number": 84,
+    "statement1": "Fewer studies have been done in women, but two major studies show similar results. One study found that women who smoke heavily have a higher risk of diabetes.",
+    "statement2": "Fewer studies have been conducted on women, but two major studies show similar outcomes. One study found that heavy smoking increases diabetes risk in women.",
+    "similarity": 1
+  },
+  {
+    "example_number": 85,
+    "statement1": "Another analysis found that being overweight or obese was the strongest predictor of diabetes, but smoking, along with low physical activity, a poor diet, and not drinking alcohol, were also linked to a higher risk.",
+    "statement2": "Another analysis identified overweight or obesity as the strongest predictor of diabetes, but smoking, low physical activity, poor diet, and abstaining from alcohol were also associated with higher risk.",
+    "similarity": 1
+  },
+  {
+    "example_number": 86,
+    "statement1": "One study looked at the link between smoking and diabetes in both men and women over a long period. The risk of diabetes was higher in both men and women who smoked a lot.",
+    "statement2": "A study examining the link between smoking and diabetes in both men and women over a long period found that heavy smoking increased diabetes risk in both genders.",
+    "similarity": 1
+  },
+  {
+    "example_number": 87,
+    "statement1": "However, after quitting smoking, the risk of diabetes returned to normal after a certain number of years.",
+    "statement2": "However, after quitting smoking, the risk of diabetes normalized after several years.",
+    "similarity": 1
+  },
+  {
+    "example_number": 88,
+    "statement1": "Only a few studies haven't found a link between smoking and diabetes, but these studies weren't well-designed to test this idea.",
+    "statement2": "Only a few studies have failed to find a link between smoking and diabetes, but these studies were not well-designed to test this hypothesis.",
+    "similarity": 1
+  },
+  {
+    "example_number": 89,
+    "statement1": "It's generally believed that smoking mainly increases the risk of type 2 diabetes because type 1 diabetes is less common in the age groups that have been studied.",
+    "statement2": "It is generally believed that smoking primarily increases the risk of type 2 diabetes, as type 1 diabetes is less common in the studied age groups.",
+    "similarity": 1
+  },
+  {
+    "example_number": 90,
+    "statement1": "This is also consistent with the harmful effects of smoking on metabolism. Type 1 diabetes is mainly caused by a lack of insulin, while type 2 diabetes is mainly caused by insulin resistance and impaired insulin secretion.",
+    "statement2": "This aligns with the detrimental effects of smoking on metabolism. Type 1 diabetes is primarily caused by insulin deficiency, while type 2 diabetes is mainly due to insulin resistance and impaired insulin secretion.",
+    "similarity": 1
+  },
+  {
+    "example_number": 91,
+    "statement1": "Moderate alcohol use has been associated with potential cardioprotective effects.",
+    "statement2": "Moderate alcohol consumption has been linked to potential heart-protective benefits.",
+    "similarity": 1
+  },
+  {
+    "example_number": 92,
+    "statement1": "Excessive alcohol consumption can lead to adverse metabolic consequences, complicating blood sugar control and increasing the risk of complications.",
+    "statement2": "Excessive alcohol intake can result in negative metabolic effects, complicating blood sugar management and raising the risk of complications.",
+    "similarity": 1
+  },
+  {
+    "example_number": 93,
+    "statement1": "Those with diabetes who consume excessive alcohol have a higher prevalence of liver disease, pancreatitis, and neuropathy.",
+    "statement2": "Individuals with diabetes who drink excessively have a higher incidence of liver disease, pancreatitis, and neuropathy.",
+    "similarity": 1
+  },
+  {
+    "example_number": 94,
+    "statement1": "The Brazilian Diabetes Society suggests that if a person chooses to drink, they do so in moderation: up to one drink for women and two for men.",
+    "statement2": "The Brazilian Diabetes Society recommends that if individuals choose to drink, they should do so in moderation: up to one drink for women and two for men.",
+    "similarity": 1
+  },
+  {
+    "example_number": 95,
+    "statement1": "The estimated lifetime risk of developing diabetes for individuals born in 2000 is about 33% for males and 39% for females.",
+    "statement2": "For individuals born in 2000, the estimated lifetime risk of developing diabetes is approximately 33% for males and 39% for females.",
+    "similarity": 1
+  },
+  {
+    "example_number": 96,
+    "statement1": "Hispanics have the highest estimated lifetime risk for diabetes (around 45% for males and 53% for females).",
+    "statement2": "Hispanics have the highest estimated lifetime risk of diabetes, at around 45% for males and 53% for females.",
+    "similarity": 1
+  },
+  {
+    "example_number": 97,
+    "statement1": "Being diagnosed with diabetes can significantly reduce life expectancy.",
+    "statement2": "A diabetes diagnosis can significantly shorten life expectancy.",
+    "similarity": 1
+  },
+  {
+    "example_number": 98,
+    "statement1": "Lifetime diabetes risk at age 18 increases dramatically with BMI, ranging from about 8% to 70% for men and 12% to 74% for women, depending on their weight.",
+    "statement2": "At age 18, lifetime diabetes risk rises sharply with BMI, ranging from approximately 8% to 70% for men and 12% to 74% for women, depending on weight.",
+    "similarity": 1
+  },
+  {
+    "example_number": 99,
+    "statement1": "Overweight and obesity, especially at younger ages, greatly increase the lifetime risk of diabetes.",
+    "statement2": "Overweight and obesity, particularly at younger ages, significantly raise the lifetime risk of diabetes.",
+    "similarity": 1
+  },
+  {
+    "example_number": 100,
+    "statement1": "Approximately one-third of adults are estimated to develop diabetes during their lifetime.",
+    "statement2": "It is estimated that about one-third of adults will develop diabetes at some point in their lives.",
+    "similarity": 1
+  },
+  {
+    "example_number": 101,
+    "statement1": "If you don't have diabetes, your body can usually handle this. But if you have diabetes, especially if you don't have enough insulin, your body may not be able to use the extra sugar properly.",
+    "statement2": "People without diabetes can typically process sugar efficiently, but those with diabetes often struggle with sugar regulation, especially if their insulin levels are too high.",
+    "similarity": 0
+  },
+  {
+    "example_number": 102,
+    "statement1": "Studies on stress in people with type 1 diabetes have had mixed results. Some studies suggest stress can trigger type 1 diabetes, while others show stress can prevent it in animals.",
+    "statement2": "Research on stress and type 1 diabetes is inconsistent, with some studies indicating stress might reduce the risk of the disease in animals, while others suggest it has no effect.",
+    "similarity": 0
+  },
+  {
+    "example_number": 103,
+    "statement1": "In people who already have type 1 diabetes, stress might raise, lower, or not affect blood sugar levels at all. This might be because of nerve damage, which is common in type 1 diabetes.",
+    "statement2": "For individuals with type 1 diabetes, stress has no consistent effect on blood sugar levels, and nerve damage is rarely a factor in these fluctuations.",
+    "similarity": 0
+  },
+  {
+    "example_number": 104,
+    "statement1": "For type 2 diabetes, the link with stress is clearer. Animal studies show stress often leads to high blood sugar.",
+    "statement2": "In type 2 diabetes, stress is less clearly linked to blood sugar levels, and animal studies suggest it has minimal impact on glucose regulation.",
+    "similarity": 0
+  },
+  {
+    "example_number": 105,
+    "statement1": "There's also growing evidence that the nervous system plays a role in how stress affects blood sugar in both people and animals with type 2 diabetes.",
+    "statement2": "Recent studies suggest that the nervous system has little influence on how stress impacts blood sugar in individuals or animals with type 2 diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 106,
+    "statement1": "It's not clear how drinking alcohol affects diabetes risk.",
+    "statement2": "Alcohol consumption is clearly linked to a reduced risk of diabetes, according to several studies.",
+    "similarity": 0
+  },
+  {
+    "example_number": 107,
+    "statement1": "Some think heavy drinking could increase the risk because it can harm the liver.",
+    "statement2": "Heavy drinking is believed to lower diabetes risk by improving liver function and metabolism.",
+    "similarity": 0
+  },
+  {
+    "example_number": 108,
+    "statement1": "But other studies haven't found this link. Alcohol has extra calories and can affect the liver and pancreas, which could be reasons for concern.",
+    "statement2": "Many studies have confirmed that alcohol has no impact on the liver or pancreas and does not contribute to diabetes risk.",
+    "similarity": 0
+  },
+  {
+    "example_number": 109,
+    "statement1": "One study didn't see a link between drinking and diabetes in men.",
+    "statement2": "A study found that men who drink alcohol are significantly more likely to develop diabetes than non-drinkers.",
+    "similarity": 0
+  },
+  {
+    "example_number": 110,
+    "statement1": "However, women who drank even occasionally seemed to have a lower risk compared to women who didn't drink, especially younger women.",
+    "statement2": "Women who drink occasionally have a higher risk of diabetes compared to non-drinkers, particularly among older women.",
+    "similarity": 0
+  },
+  {
+    "example_number": 111,
+    "statement1": "The study called anyone who drank at least once a month a \"regular drinker,\" so it couldn't really see the effects of heavy drinking.",
+    "statement2": "The study defined heavy drinkers as those who consumed alcohol daily, making it easier to assess the impact of frequent drinking.",
+    "similarity": 0
+  },
+  {
+    "example_number": 112,
+    "statement1": "People who used to drink had higher rates of diabetes, but this might be because doctors told them to stop drinking after they were diagnosed.",
+    "statement2": "Former drinkers had lower rates of diabetes, possibly because they continued to drink moderately after their diagnosis.",
+    "similarity": 0
+  },
+  {
+    "example_number": 113,
+    "statement1": "Right now, there's not enough proof to recommend drinking for any health benefits related to diabetes.",
+    "statement2": "Current evidence strongly supports recommending moderate alcohol consumption for its benefits in reducing diabetes risk.",
+    "similarity": 0
+  },
+  {
+    "example_number": 114,
+    "statement1": "To really know if exercise prevents diabetes, we need strong experimental proof.",
+    "statement2": "Exercise has been proven to have no significant effect on preventing diabetes, according to recent studies.",
+    "similarity": 0
+  },
+  {
+    "example_number": 115,
+    "statement1": "Some recent research shows that making major changes to your life, especially adding more physical activity, can delay the start of diabetes in people who are at high risk of developing it.",
+    "statement2": "Recent research suggests that lifestyle changes, including reducing physical activity, can accelerate the onset of diabetes in high-risk individuals.",
+    "similarity": 0
+  },
+  {
+    "example_number": 116,
+    "statement1": "One study in China looked at people with blood sugar issues and divided them into four groups. There was a control group that didn't make any changes, a group that focused on diet, a group that focused on exercise, and a group that combined diet and exercise.",
+    "statement2": "A study in China divided participants with blood sugar issues into four groups: one that increased sugar intake, one that reduced physical activity, one that avoided dietary changes, and one that combined all three.",
+    "similarity": 0
+  },
+  {
+    "example_number": 117,
+    "statement1": "The people in the exercise group were much less likely to develop diabetes compared to the control group.",
+    "statement2": "Participants in the exercise group were more likely to develop diabetes compared to the control group.",
+    "similarity": 0
+  },
+  {
+    "example_number": 118,
+    "statement1": "The group that combined diet and exercise had similar positive results, and both of those groups did better than the group that only changed their diet.",
+    "statement2": "The group that combined diet and exercise had worse outcomes than the group that only changed their diet.",
+    "similarity": 0
+  },
+  {
+    "example_number": 119,
+    "statement1": "However, there have been some questions about how CAPPP was done. Also, the ABCD study didn't see any effect in people with normal blood pressure. This makes us wonder if these results really mean the medicines have an extra benefit beyond just lowering blood pressure.",
+    "statement2": "The CAPPP study was conducted flawlessly, and the ABCD study showed significant benefits in people with normal blood pressure, confirming the extra benefits of the medications.",
+    "similarity": 0
+  },
+  {
+    "example_number": 120,
+    "statement1": "Two large studies, one in Finland and one in the United States, examined how making comprehensive lifestyle changes affected the risk of developing diabetes in people who already had blood sugar problems.",
+    "statement2": "Two large studies, one in Finland and one in the United States, found that lifestyle changes had no impact on diabetes risk in people with blood sugar issues.",
+    "similarity": 0
+  },
+  {
+    "example_number": 121,
+    "statement1": "These lifestyle changes included getting regular physical activity (aiming for at least 150 minutes per week of moderate-intensity exercise), losing a small amount of weight (around 7% of their starting weight), eating less fat, and increasing their intake of whole grains, fruits, and vegetables.",
+    "statement2": "The lifestyle changes involved reducing physical activity, gaining weight, eating more fat, and decreasing the intake of whole grains, fruits, and vegetables.",
+    "similarity": 0
+  },
+  {
+    "example_number": 122,
+    "statement1": "The results of both studies were very similar. Over a period of several years, the people who consistently made these lifestyle changes were significantly less likely to develop diabetes compared to the people in the control groups who didn't make these changes.",
+    "statement2": "The results of both studies were very different. Over several years, those who made lifestyle changes were more likely to develop diabetes compared to the control groups.",
+    "similarity": 0
+  },
+  {
+    "example_number": 123,
+    "statement1": "Several previous studies have looked at the link between eating fruits and vegetables and the risk of getting type 2 diabetes. Two studies also looked at the link between fiber intake and diabetes risk. But this new study is more up-to-date.",
+    "statement2": "Previous studies have found no connection between fruit and vegetable consumption and type 2 diabetes risk, and fiber intake has been shown to increase the risk.",
+    "similarity": 0
+  },
+  {
+    "example_number": 124,
+    "statement1": "This study shows that eating more fruit is linked to a lower risk of type 2 diabetes.",
+    "statement2": "This study shows that eating more fruit is linked to a higher risk of type 2 diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 125,
+    "statement1": "Unlike some earlier studies that had mixed results, this study found similar results to a specific analysis that looked at the length of follow-up time.",
+    "statement2": "Unlike earlier studies, this study found completely opposite results, regardless of the length of follow-up time.",
+    "similarity": 0
+  },
+  {
+    "example_number": 126,
+    "statement1": "The study also found that eating berries, in particular, was linked to a lower risk of type 2 diabetes.",
+    "statement2": "The study also found that eating berries, in particular, was linked to a higher risk of type 2 diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 127,
+    "statement1": "Plus, when looking at high-quality studies, it was found that eating lots of fruit fiber reduced the risk of type 2 diabetes.",
+    "statement2": "High-quality studies have shown that eating lots of fruit fiber increases the risk of type 2 diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 128,
+    "statement1": "Like previous studies, this one found that eating vegetables, in general, wasn't clearly linked to a lower risk of type 2 diabetes.",
+    "statement2": "Unlike previous studies, this one found that eating vegetables, in general, was strongly linked to a lower risk of type 2 diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 129,
+    "statement1": "However, the study did find that eating more green leafy vegetables, yellow vegetables, or cruciferous vegetables (like broccoli and cabbage) could help lower the risk.",
+    "statement2": "However, the study found that eating more green leafy vegetables, yellow vegetables, or cruciferous vegetables (like broccoli and cabbage) could increase the risk.",
+    "similarity": 0
+  },
+  {
+    "example_number": 130,
+    "statement1": "It also found that eating lots of vegetable fiber reduced the risk of type 2 diabetes when looking at studies that followed people for 10 years or more.",
+    "statement2": "It also found that eating lots of vegetable fiber increased the risk of type 2 diabetes in studies with long follow-up periods.",
+    "similarity": 0
+  },
+  {
+    "example_number": 131,
+    "statement1": "This study is strong because it looked at a large number of studies on fruit, vegetables, fiber, and diabetes risk. This helps to avoid bias and allows for more detailed analysis.",
+    "statement2": "This study is weak because it only looked at a small number of studies, leading to biased and less detailed analysis.",
+    "similarity": 0
+  },
+  {
+    "example_number": 132,
+    "statement1": "Also, the studies were checked for quality, and most were high-quality with large groups of people and long follow-up times.",
+    "statement2": "The studies were not checked for quality, and most were low-quality with small groups and short follow-up times.",
+    "similarity": 0
+  },
+  {
+    "example_number": 133,
+    "statement1": "This study looked at how eating a lot of cholesterol affects your chances of getting type 2 diabetes. Researchers compared people who ate the most cholesterol to those who ate the least.",
+    "statement2": "This study looked at how eating a lot of cholesterol has no effect on your chances of getting type 2 diabetes. Researchers found no difference between high and low cholesterol intake.",
+    "similarity": 0
+  },
+  {
+    "example_number": 134,
+    "statement1": "They also calculated how much the risk of diabetes changed for every extra 100 mg of cholesterol people ate each day.... If studies only gave cholesterol intake as categories (like low, medium, high), researchers used a special method to estimate the risk in each study.",
+    "statement2": "They did not calculate the risk of diabetes based on cholesterol intake, and studies were not categorized or analyzed using any special methods.",
+    "similarity": 0
+  },
+  {
+    "example_number": 135,
+    "statement1": "This method helped them account for the relationships between different risk estimates from the same study. Then, they used a statistical technique to estimate the overall trend.",
+    "statement2": "This method failed to account for relationships between risk estimates, and no statistical techniques were used to estimate trends.",
+    "similarity": 0
+  },
+  {
+    "example_number": 136,
+    "statement1": "In both types of analysis, the risk in each study was converted to a natural logarithm. These values were combined using a method that gives more weight to studies with more precise results.",
+    "statement2": "In both types of analysis, the risk in each study was not converted to a natural logarithm, and no weighting was given to studies with precise results.",
+    "similarity": 0
+  },
+  {
+    "example_number": 137,
+    "statement1": "If there was significant variation between studies, a random-effects model was used; otherwise, a fixed-effects model was used. The overall risk was then calculated.",
+    "statement2": "No models were used to account for variation between studies, and the overall risk was not calculated.",
+    "similarity": 0
+  },
+  {
+    "example_number": 138,
+    "statement1": "Researchers also conducted additional analyses, dividing the studies based on factors like study quality, how long people were followed, participants' sex, how diabetes was identified, and whether the study adjusted for total energy intake. They also used statistical methods to see if any of these factors significantly influenced the results.",
+    "statement2": "Researchers did not conduct additional analyses, and no factors like study quality, follow-up time, or participant sex were considered. Statistical methods were not used to analyze the results.",
+    "similarity": 0
+  },
+  {
+    "example_number": 139,
+    "statement1": "It's important to be careful when looking at these estimates of lifetime diabetes risk. These risks are for an \"average person\" in the U.S. in 2004.",
+    "statement2": "These estimates of lifetime diabetes risk are not reliable and do not apply to the average person in the U.S. in 2004.",
+    "similarity": 0
+  },
+  {
+    "example_number": 140,
+    "statement1": "Things like how overweight someone is, their genes, diet, how active they are, and their socioeconomic situation can make their individual risk higher or lower than the average.",
+    "statement2": "Factors like weight, genes, diet, activity level, and socioeconomic status have no impact on an individual's risk of diabetes compared to the average.",
+    "similarity": 0
+  },
+  {
+    "example_number": 141,
+    "statement1": "The information about diabetes diagnoses and BMI (body mass index) in this study was based on what people reported themselves. People are generally pretty accurate when they self-report diabetes in surveys.",
+    "statement2": "The information about diabetes diagnoses and BMI in this study was not based on self-reports, as people are generally inaccurate when reporting their health data in surveys.",
+    "similarity": 0
+  },
+  {
+    "example_number": 142,
+    "statement1": "However, people who are heavier tend to underestimate their weight, and shorter people tend to overestimate their height. The accuracy of these reports can depend on how the information is collected.",
+    "statement2": "People who are heavier tend to overestimate their weight, and shorter people tend to underestimate their height. The accuracy of these reports is not affected by how the information is collected.",
+    "similarity": 0
+  },
+  {
+    "example_number": 143,
+    "statement1": "For example, people are more likely to be inaccurate when reporting their weight over the phone than in person. But in studies with careful in-person interviews, self-reported weight and height are just as reliable as measured weight and height.",
+    "statement2": "People are equally inaccurate when reporting their weight over the phone or in person, and self-reported data is never as reliable as measured data.",
+    "similarity": 0
+  },
+  {
+    "example_number": 144,
+    "statement1": "This study assumes that diabetes rates will stay the same over time. However, obesity is increasing rapidly in the U.S., which could cause diabetes rates to rise in the future.",
+    "statement2": "This study assumes that diabetes rates will decrease over time, despite the rapid increase in obesity in the U.S.",
+    "similarity": 0
+  },
+  {
+    "example_number": 145,
+    "statement1": "Also, people are expected to live longer, especially certain ethnic groups, which will increase the average lifetime risk of diabetes.",
+    "statement2": "People are expected to live shorter lives, especially certain ethnic groups, which will decrease the average lifetime risk of diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 146,
+    "statement1": "However, these estimates take into account diabetes rates and death rates specific to age, sex, race/ethnicity, and BMI.",
+    "statement2": "These estimates do not consider diabetes rates or death rates specific to age, sex, race/ethnicity, or BMI.",
+    "similarity": 0
+  },
+  {
+    "example_number": 147,
+    "statement1": "Type 1 diabetes happens when the body's immune system attacks and destroys the cells in the pancreas that make insulin.",
+    "statement2": "Type 1 diabetes occurs when the pancreas produces too much insulin, overwhelming the body's ability to regulate blood sugar.",
+    "similarity": 0
+  },
+  {
+    "example_number": 148,
+    "statement1": "Insulin is super important because it helps your body use sugar for energy. Without it, sugar builds up in your blood, which can cause a lot of problems.",
+    "statement2": "Insulin is not essential for energy production, and high blood sugar levels are not harmful to the body.",
+    "similarity": 0
+  },
+  {
+    "example_number": 149,
+    "statement1": "Doctors are realizing that the speed at which these insulin-producing cells are destroyed can vary. It's usually faster in young kids, but slower in adults.",
+    "statement2": "Doctors have found that the destruction of insulin-producing cells occurs at the same rate in children and adults.",
+    "similarity": 0
+  },
+  {
+    "example_number": 150,
+    "statement1": "Childhood diabetes is easier to study because kids with the disease tend to have similar characteristics and are easily found within the healthcare system. Also, in Western countries, they almost always have the autoimmune version of the disease.",
+    "statement2": "Childhood diabetes is harder to study because kids with the disease have diverse characteristics and are rarely found in healthcare systems. In Western countries, the disease is rarely autoimmune.",
+    "similarity": 0
+  },
+  {
+    "example_number": 151,
+    "statement1": "These kids often have specific genetic markers and certain antibodies in their blood.",
+    "statement2": "Children with diabetes rarely have specific genetic markers or antibodies in their blood, making diagnosis more challenging.",
+    "similarity": 0
+  },
+  {
+    "example_number": 152,
+    "statement1": "In adults, however, autoimmune diabetes is harder to identify. It shows up in different ways, with varying degrees of insulin deficiency, genetic markers, and antibodies.",
+    "statement2": "In adults, autoimmune diabetes is easier to identify because it presents consistently with severe insulin deficiency and clear genetic markers.",
+    "similarity": 0
+  },
+  {
+    "example_number": 153,
+    "statement1": "These features are less obvious in adults compared to children, and sometimes they're not there at all. In older people, it can be difficult to tell the difference between autoimmune diabetes and regular, non-immune diabetes.",
+    "statement2": "These features are more obvious in adults than in children, and they are always present. In older people, distinguishing between autoimmune and non-immune diabetes is straightforward.",
+    "similarity": 0
+  },
+  {
+    "example_number": 154,
+    "statement1": "Some older patients have specific antibodies that indicate they have autoimmune diabetes.",
+    "statement2": "Older patients rarely have specific antibodies, making it difficult to confirm autoimmune diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 155,
+    "statement1": "However, even within this group, there's variation. Those with higher levels of these antibodies are more likely to have certain genetic markers.",
+    "statement2": "Within this group, there is no variation. Those with higher antibody levels are less likely to have genetic markers.",
+    "similarity": 0
+  },
+  {
+    "example_number": 156,
+    "statement1": "This form of diabetes in adults is sometimes called \"latent autoimmune diabetes of adults\" (LADA). Because it's hard to clearly define, it's difficult to study its frequency and how it develops.",
+    "statement2": "This form of diabetes in adults is clearly defined and easy to study, making its frequency and progression well understood.",
+    "similarity": 0
+  },
+  {
+    "example_number": 157,
+    "statement1": "We don't know a lot about how common autoimmune diabetes is in older adults or how it progresses. However, one study suggested that almost half of all cases of what's considered Type 1 diabetes actually start after age 40.",
+    "statement2": "We know a lot about how common autoimmune diabetes is in older adults, and studies show that almost no cases of Type 1 diabetes start after age 40.",
+    "similarity": 0
+  },
+  {
+    "example_number": 158,
+    "statement1": "The ALLHAT study is the largest study of its kind to date. It compared chlorthalidone, amlodipine, and lisinopril in over 33,000 patients, including people with type 2 diabetes, over 4–8 years.",
+    "statement2": "The ALLHAT study was a small-scale study that compared only two medications in a limited number of patients with type 1 diabetes over a short period.",
+    "similarity": 0
+  },
+  {
+    "example_number": 159,
+    "statement1": "In the diabetic group, there were no major differences in heart attacks, deaths, strokes, heart disease, or overall heart issues between the different treatments.",
+    "statement2": "In the diabetic group, there were significant differences in heart attacks, deaths, strokes, and heart disease between the treatments, with one being far superior.",
+    "similarity": 0
+  },
+  {
+    "example_number": 160,
+    "statement1": "Chlorthalidone did show a benefit in preventing heart failure, but this is debated because the diagnosis of heart failure was mainly based on symptoms and not always confirmed with tests.",
+    "statement2": "Chlorthalidone showed no benefit in preventing heart failure, and the diagnosis was always confirmed with rigorous testing.",
+    "similarity": 0
+  },
+  {
+    "example_number": 161,
+    "statement1": "Also, diuretics like chlorthalidone might hide some of the key signs of heart failure compared to the other drugs.",
+    "statement2": "Diuretics like chlorthalidone make the signs of heart failure more obvious compared to other drugs.",
+    "similarity": 0
+  },
+  {
+    "example_number": 162,
+    "statement1": "Therefore, when talking about whether Type 1 diabetes affects one sex more than the other, we can be pretty confident about the numbers for children. We're less confident about young adults, and we can't really say anything for sure about people over 50.... For children under 15, there's a slight tendency for more boys to have the disease in Europe and in populations with European roots. However, in populations with African or Asian roots, there are more girls with the disease.",
+    "statement2": "Type 1 diabetes affects both sexes equally in children, young adults, and people over 50. In Europe and populations with European roots, girls are more affected, while in African or Asian populations, boys are more affected.",
+    "similarity": 0
+  },
+  {
+    "example_number": 163,
+    "statement1": "Interestingly, countries with a higher rate of diabetes in children tend to have more boys affected, while countries with a lower rate tend to have more girls affected. The reason for this is unknown.",
+    "statement2": "Countries with a higher rate of diabetes in children tend to have more girls affected, while countries with a lower rate tend to have more boys affected. The reason for this is well understood.",
+    "similarity": 0
+  },
+  {
+    "example_number": 164,
+    "statement1": "While childhood diabetes has been studied a lot, we don't know as much about autoimmune diabetes in adults. As people get older, it becomes harder to distinguish autoimmune diabetes from Type 2 diabetes.",
+    "statement2": "Childhood diabetes has not been studied much, but we know a lot about autoimmune diabetes in adults. Distinguishing it from Type 2 diabetes becomes easier with age.",
+    "similarity": 0
+  },
+  {
+    "example_number": 165,
+    "statement1": "However, some studies have looked at adults who require insulin and have found that more men than women are diagnosed with Type 1 diabetes after age 14.",
+    "statement2": "Studies have found that more women than men are diagnosed with Type 1 diabetes after age 14, especially in older adults.",
+    "similarity": 0
+  },
+  {
+    "example_number": 166,
+    "statement1": "Generally, when people with diabetes drink too much, their blood sugar control gets worse, but it can get better if they stop drinking.",
+    "statement2": "Generally, when people with diabetes drink too much, their blood sugar control improves, but it can get worse if they stop drinking.",
+    "similarity": 0
+  },
+  {
+    "example_number": 167,
+    "statement1": "However, their blood sugar issues are usually related to more than just alcohol; their lifestyle, social life, and stress levels also play a role.",
+    "statement2": "Their blood sugar issues are usually unrelated to alcohol, lifestyle, social life, or stress levels.",
+    "similarity": 0
+  },
+  {
+    "example_number": 168,
+    "statement1": "On the other hand, there's evidence that moderate drinking doesn't harm blood sugar control and might even make the body more sensitive to insulin.",
+    "statement2": "On the other hand, there's evidence that moderate drinking harms blood sugar control and reduces insulin sensitivity.",
+    "similarity": 0
+  },
+  {
+    "example_number": 169,
+    "statement1": "One of the first studies to suggest this showed that moderate alcohol use was linked to lower insulin levels after eating.",
+    "statement2": "One of the first studies to suggest this showed that moderate alcohol use was linked to higher insulin levels after eating.",
+    "similarity": 0
+  },
+  {
+    "example_number": 170,
+    "statement1": "Heart disease is the biggest killer of people with diabetes, even those with severe kidney disease. So, it's the main thing to watch when deciding how well blood pressure medicine is working.",
+    "statement2": "Heart disease is not a significant concern for people with diabetes, even those with severe kidney disease. Blood pressure medicine is rarely needed.",
+    "similarity": 0
+  },
+  {
+    "example_number": 171,
+    "statement1": "Right now, the best evidence that different blood pressure medicines work differently on heart health comes from a study called LIFE.",
+    "statement2": "The best evidence shows that all blood pressure medicines work the same on heart health, according to the LIFE study.",
+    "similarity": 0
+  },
+  {
+    "example_number": 172,
+    "statement1": "This study compared atenolol to losartan in people with high blood pressure and heart problems, including people with diabetes.",
+    "statement2": "This study compared atenolol to a placebo in people with normal blood pressure and no heart problems, excluding people with diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 173,
+    "statement1": "During the study, which lasted nearly five years, blood pressure went down about the same amount in those taking either medicine.",
+    "statement2": "During the study, which lasted only one year, blood pressure increased significantly in those taking either medicine.",
+    "similarity": 0
+  },
+  {
+    "example_number": 174,
+    "statement1": "However, losartan lowered the risk of death and major heart problems like stroke or heart attack better than atenolol. The biggest difference was fewer deaths from heart problems with losartan.",
+    "statement2": "However, atenolol lowered the risk of death and major heart problems like stroke or heart attack better than losartan. The biggest difference was fewer deaths from heart problems with atenolol.",
+    "similarity": 0
+  },
+  {
+    "example_number": 175,
+    "statement1": "We should think about the LIFE study together with other smaller studies that looked at heart health in people with diabetes. Besides LIFE, two other studies, CAPPP and ABCD, showed that one type of blood pressure medicine could lower the risk of major heart events (mostly heart problems) compared to another.",
+    "statement2": "We should ignore the LIFE study and focus on smaller studies that found no difference between blood pressure medicines in reducing heart events in people with diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 176,
+    "statement1": "CAPPP compared an ACE inhibitor to a diuretic/beta-blocker, and ABCD compared an ACE inhibitor to a calcium channel blocker.",
+    "statement2": "CAPPP compared a placebo to a diuretic/beta-blocker, and ABCD compared a placebo to a calcium channel blocker.",
+    "similarity": 0
+  },
+  {
+    "example_number": 177,
+    "statement1": "Stress can make blood sugar control harder in people with diabetes.",
+    "statement2": "Stress has no effect on blood sugar control in people with diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 178,
+    "statement1": "When you're stressed, your body releases hormones to give you energy for \"fight or flight.\" These hormones can raise blood sugar levels.",
+    "statement2": "When you're stressed, your body releases hormones that lower blood sugar levels, providing energy for \"fight or flight.\"",
+    "similarity": 0
+  },
+  {
+    "example_number": 179,
+    "statement1": "Other studies have reported similar findings in different groups of people. Studies have also shown that moderate drinkers have better insulin-mediated glucose uptake compared to non-drinkers.",
+    "statement2": "Other studies have reported opposite findings in different groups. Studies have also shown that moderate drinkers have worse insulin-mediated glucose uptake compared to non-drinkers.",
+    "similarity": 0
+  },
+  {
+    "example_number": 180,
+    "statement1": "Some studies suggest that the relationship between alcohol and insulin sensitivity is J-shaped.",
+    "statement2": "Some studies suggest that the relationship between alcohol and insulin sensitivity is linear, with no J-shaped curve.",
+    "similarity": 0
+  },
+  {
+    "example_number": 181,
+    "statement1": "Moderate drinkers have the best insulin levels and insulin resistance, while people who don't drink or drink heavily have higher levels. However, this might be because of factors like body weight and belly fat.",
+    "statement2": "Moderate drinkers have the worst insulin levels and insulin resistance, while people who don't drink or drink heavily have lower levels. This is unrelated to body weight or belly fat.",
+    "similarity": 0
+  },
+  {
+    "example_number": 182,
+    "statement1": "A recent study showed that men who smoke a lot (more than 20 cigarettes a day) have a much higher risk of diabetes.",
+    "statement2": "A recent study showed that men who smoke a lot (more than 20 cigarettes a day) have a much lower risk of diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 183,
+    "statement1": "There was also a link between smoking more and a higher risk, and people who had quit smoking had almost normal risk levels. Other studies have confirmed these findings in men.",
+    "statement2": "There was no link between smoking and diabetes risk, and people who quit smoking had higher risk levels. Other studies have contradicted these findings in men.",
+    "similarity": 0
+  },
+  {
+    "example_number": 184,
+    "statement1": "Fewer studies have been done in women, but two major studies show similar results. One study found that women who smoke heavily have a higher risk of diabetes.",
+    "statement2": "Many studies have been done in women, and they show conflicting results. One study found that women who smoke heavily have a lower risk of diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 185,
+    "statement1": "Another analysis found that being overweight or obese was the strongest predictor of diabetes, but smoking, along with low physical activity, a poor diet, and not drinking alcohol, were also linked to a higher risk.",
+    "statement2": "Another analysis found that being underweight was the strongest predictor of diabetes, and smoking, physical activity, diet, and alcohol consumption had no effect on risk.",
+    "similarity": 0
+  },
+  {
+    "example_number": 186,
+    "statement1": "One study looked at the link between smoking and diabetes in both men and women over a long period. The risk of diabetes was higher in both men and women who smoked a lot.",
+    "statement2": "One study looked at the link between smoking and diabetes in both men and women over a short period. The risk of diabetes was lower in both men and women who smoked a lot.",
+    "similarity": 0
+  },
+  {
+    "example_number": 187,
+    "statement1": "However, after quitting smoking, the risk of diabetes returned to normal after a certain number of years.",
+    "statement2": "After quitting smoking, the risk of diabetes increased significantly over time.",
+    "similarity": 0
+  },
+  {
+    "example_number": 188,
+    "statement1": "Only a few studies haven't found a link between smoking and diabetes, but these studies weren't well-designed to test this idea.",
+    "statement2": "Many well-designed studies have found no link between smoking and diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 189,
+    "statement1": "It's generally believed that smoking mainly increases the risk of type 2 diabetes because type 1 diabetes is less common in the age groups that have been studied.",
+    "statement2": "It's generally believed that smoking mainly reduces the risk of type 2 diabetes because type 1 diabetes is more common in the age groups that have been studied.",
+    "similarity": 0
+  },
+  {
+    "example_number": 190,
+    "statement1": "This is also consistent with the harmful effects of smoking on metabolism. Type 1 diabetes is mainly caused by a lack of insulin, while type 2 diabetes is mainly caused by insulin resistance and impaired insulin secretion.",
+    "statement2": "This is inconsistent with the effects of smoking on metabolism. Type 1 diabetes is mainly caused by insulin resistance, while type 2 diabetes is mainly caused by a lack of insulin.",
+    "similarity": 0
+  },
+  {
+    "example_number": 191,
+    "statement1": "Moderate alcohol use has been associated with potential cardioprotective effects.",
+    "statement2": "Moderate alcohol use has been associated with harmful effects on the heart.",
+    "similarity": 0
+  },
+  {
+    "example_number": 192,
+    "statement1": "Excessive alcohol consumption can lead to adverse metabolic consequences, complicating blood sugar control and increasing the risk of complications.",
+    "statement2": "Excessive alcohol consumption has no effect on metabolism or blood sugar control and does not increase the risk of complications.",
+    "similarity": 0
+  },
+  {
+    "example_number": 193,
+    "statement1": "Those with diabetes who consume excessive alcohol have a higher prevalence of liver disease, pancreatitis, and neuropathy.",
+    "statement2": "Those with diabetes who consume excessive alcohol have a lower prevalence of liver disease, pancreatitis, and neuropathy.",
+    "similarity": 0
+  },
+  {
+    "example_number": 194,
+    "statement1": "The Brazilian Diabetes Society suggests that if a person chooses to drink, they do so in moderation: up to one drink for women and two for men.",
+    "statement2": "The Brazilian Diabetes Society suggests that people with diabetes should avoid alcohol entirely, regardless of gender.",
+    "similarity": 0
+  },
+  {
+    "example_number": 195,
+    "statement1": "The estimated lifetime risk of developing diabetes for individuals born in 2000 is about 33% for males and 39% for females.",
+    "statement2": "The estimated lifetime risk of developing diabetes for individuals born in 2000 is about 10% for males and 15% for females.",
+    "similarity": 0
+  },
+  {
+    "example_number": 196,
+    "statement1": "Hispanics have the highest estimated lifetime risk for diabetes (around 45% for males and 53% for females).",
+    "statement2": "Hispanics have the lowest estimated lifetime risk for diabetes (around 10% for males and 15% for females).",
+    "similarity": 0
+  },
+  {
+    "example_number": 197,
+    "statement1": "Being diagnosed with diabetes can significantly reduce life expectancy.",
+    "statement2": "Being diagnosed with diabetes has no impact on life expectancy.",
+    "similarity": 0
+  },
+  {
+    "example_number": 198,
+    "statement1": "Lifetime diabetes risk at age 18 increases dramatically with BMI, ranging from about 8% to 70% for men and 12% to 74% for women, depending on their weight.",
+    "statement2": "Lifetime diabetes risk at age 18 decreases with BMI, ranging from about 70% to 8% for men and 74% to 12% for women, depending on their weight.",
+    "similarity": 0
+  },
+  {
+    "example_number": 199,
+    "statement1": "Overweight and obesity, especially at younger ages, greatly increase the lifetime risk of diabetes.",
+    "statement2": "Overweight and obesity, especially at younger ages, greatly decrease the lifetime risk of diabetes.",
+    "similarity": 0
+  },
+  {
+    "example_number": 200,
+    "statement1": "Approximately one-third of adults are estimated to develop diabetes during their lifetime.",
+    "statement2": "Approximately one-tenth of adults are estimated to develop diabetes during their lifetime.",
+    "similarity": 0
+  }
+]

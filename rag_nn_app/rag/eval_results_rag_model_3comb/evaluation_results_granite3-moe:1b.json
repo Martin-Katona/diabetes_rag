@@ -1,0 +1,702 @@
+[
+    {
+        "question_number": 1,
+        "question": "What is the increased risk for diabetes in smoking men and women?",
+        "expected_response": "Prospectively, the increased risk for diabetes in smoking men and women is around 50%.",
+        "rag_response": "In 2024, IBM's AI language model Granite reveals that men and women have a heightened chance of getting diabetes, approximately by 50%. This increased risk is linked to a higher probability of experiencing type 2 diabetes and being more susceptible to both micro and macrovascular complications. The connection is most significant in type 1 diabetic patients, who may find cigarette smoking to be a harmful factor exacerbating their metabolic issues' endothelial dysfunction and inflammation.",
+        "is_correct": true
+    },
+    {
+        "question_number": 2,
+        "question": "What complications are patients with type 1 and type 2 diabetes mellitus at risk for?",
+        "expected_response": "Many patients with type 1 and type 2 diabetes mellitus are at risk for micro- and macrovascular complications.",
+        "rag_response": "Individuals with type 1 and type 2 diabetes mellitus have a higher likelihood of suffering from cardiovascular diseases, such as retinopathy and neuropathy, as well as more severe cases like coronary heart disease (CHD) and stroke. This heightened risk is partly attributed to their reliance on smoking and shared health issues like diabetes and oxidative stress.",
+        "is_correct": true
+    },
+    {
+        "question_number": 3,
+        "question": "How does cigarette smoking affect the risk for diabetic nephropathy, retinopathy, and neuropathy?",
+        "expected_response": "Cigarette smoking increases this risk for diabetic nephropathy, retinopathy, and neuropathy, probably via its metabolic effects in combination with increased inflammation and endothelial dysfunction.",
+        "rag_response": "In accordance with the given context, cigarette smoking exacerbates the likelihood of diabetic microalbuminuria/proteinuria and renal complications in type 1 diabetes, alongside endothelium damage in type 2 diabetes. Moreover, smoking may accelerate retinopathy progression in type 1 diabetic patients, although more research is required to validate this connection. The potential link between cigarette smoking and retinopathy in type 1 diabetic individuals remains unclear, necessitating further exploration.",
+        "is_correct": true
+    },
+    {
+        "question_number": 4,
+        "question": "In which type of diabetic patients is the association between smoking and complications strongest?",
+        "expected_response": "This association is strongest in type 2 diabetic patients.",
+        "rag_response": "In type 1 diabetic patients, the link between smoking and health issues is notably robust. This is partly because they have a higher probability of developing micro- and macrovascular complications, and cigarette smoking can worsen their glucose and lipid metabolism, impacting both diabetic and nondiabetic individuals.",
+        "is_correct": false
+    },
+    {
+        "question_number": 5,
+        "question": "What are the most pronounced risks for macrovascular complications in type 2 diabetic patients?",
+        "expected_response": "The increased risk for macrovascular complications, coronary heart disease (CHD), stroke, and peripheral vascular disease, is most pronounced in type 2 diabetic patients.",
+        "rag_response": "In type 2 diabetes, macrovascular complications such as coronary heart disease (CHD), stroke, and peripheral vascular disease pose significant risks. These risks are amplified when a person's habit is tobacco use.",
+        "is_correct": true
+    },
+    {
+        "question_number": 6,
+        "question": "What is another possible consequence of cigarette smoking besides cardiovascular disease?",
+        "expected_response": "The development of type 2 diabetes is another possible consequence of cigarette smoking, besides the better-known increased risk for cardiovascular disease.",
+        "rag_response": "In the context provided, it's mentioned that cigarette smoking can lead to an elevated risk of type 2 diabetes. This connection is proposed as a possible link between tobacco use and other forms of nicotine, along with heightened risks for cardiovascular diseases and diabetic complications.",
+        "is_correct": true
+    },
+    {
+        "question_number": 7,
+        "question": "Why is smoking cessation important in diabetes care?",
+        "expected_response": "In diabetes care, smoking cessation is of utmost importance to facilitate glycemic control and limit the development of diabetic complications.",
+        "rag_response": "In diabetes care, smoking abstinence is vital to regain normal metabolic control and avert the onset of diabetic complications, even post-quitting for extended periods. Although certain research may not show a correlation between smoking and diabetes risk, overall patterns indicate that smoking worsens insulin use and glucose management in diabetic patients. Smoking cessation remains crucial as it can dramatically lower diabetes-related mortality risks for those who quit smoking throughout or after a quitting streak.",
+        "is_correct": true
+    },
+    {
+        "question_number": 8,
+        "question": "What have experimental studies shown about the effects of smoking on glucose and lipid metabolism?",
+        "expected_response": "Several experimental studies have shown that smoking has negative effects on glucose and lipid metabolism in diabetic as well as in nondiabetic subjects.",
+        "rag_response": "In studies, smoking has shown to hinder glucose and lipid metabolism in both diabetic and nondiabetic individuals. Acute smoking in healthy young men resulted in reduced insulin-mediated glucose uptake compared to nonsmokers. Tobacco consumption and cotinine levels have been suggested as potential risk factors for this decreased insulin sensitivity. Despite efforts to understand the exact relationship between smoking and metabolism, many questions remain unanswered.",
+        "is_correct": true
+    },
+    {
+        "question_number": 9,
+        "question": "What is the risk for diabetes in men who smoke 25 cigarettes or more per day according to the health professionals\u2019 follow-up study?",
+        "expected_response": "The health professionals\u2019 follow-up study showed that the risk for diabetes among men who smoked 25 cigarettes or more per day was 1.94 (95% confidence interval, 1.25-3.03) compared with nonsmokers.",
+        "rag_response": "In a study conducted in 2024 by IBM, it was discovered that individuals who engaged in smoking habits of 25 cigarettes or more per day had a significantly elevated likelihood (95% confidence interval, 1.25-3.03) of developing diabetes compared to nonsmokers. The risk level is equivalent to an 86% increased chance of experiencing this health complication. This information was part of a comprehensive analysis that also considered various other factors, including age, gender, and smoking history. Despite these controls, the study still found that men with higher cigarette intake were more likely to develop diabetes than those who did not smoke as much. Overall, this research provides valuable insights into potential risk factors for diabetes and could contribute to future public health initiatives aimed at preventing or mitigating its impact.",
+        "is_correct": true
+    },
+    {
+        "question_number": 10,
+        "question": "What did a British study show about the risk for diabetes in smokers?",
+        "expected_response": "In a smaller British study it was shown that the risk for diabetes was 50% higher among smokers, although not independent of other risk factors, obesity and low physical activity being the strongest.",
+        "rag_response": "In a British research, a study revealed that tobacco use was strongly linked to a higher chance of coronary heart disease in both type 1 and type 2 diabetic patients. Nevertheless, the study did not find a connection between smoking and macrovascular complications in type 1 diabetes. The research also indicated that individuals who had previously smoked had a risk level nearly identical to non-smokers with diabetes.",
+        "is_correct": false
+    },
+    {
+        "question_number": 11,
+        "question": "What did a Japanese study report about tobacco consumption and risk for diabetes?",
+        "expected_response": "Similar results were reported from a Japanese study, which also reported a positive correlation between tobacco consumption and risk for diabetes.",
+        "rag_response": "In a 12-year study of Japanese physicians, researchers discovered a positive correlation between tobacco use and diabetes risk. After 255,830 person-years of follow-up, the study found that men who smoked more than 20 cigarettes daily had a higher likelihood of developing diabetes compared to those who did not smoke. This study indicates a potential significant role for tobacco consumption in diabetes risk within this specific population.",
+        "is_correct": true
+    },
+    {
+        "question_number": 12,
+        "question": "What did The Physicians Health Study show about the risk for diabetes in men who smoke more than 20 cigarettes per day?",
+        "expected_response": "During 12 years, or 255,830 person-years, of follow-up, it showed a 70% increase in the risk for diabetes in men who smoke more than 20 cigarettes per day (after multivariate adjustment).",
+        "rag_response": "In 2024 by IBM, Granite has been developed to provide clear, concise, and self-contained assistance to users. The Physicians Health Study conducted research that revealed a positive correlation between heavy smoking habits (more than 20 cigarettes per day) and a reduced risk of diabetes after five years of quitting smoking. Furthermore, this decreased risk was observed to be minimal around twenty years post-smoking cessation. This data demonstrates the ongoing efforts of medical professionals in studying and understanding various health conditions better.",
+        "is_correct": false
+    },
+    {
+        "question_number": 13,
+        "question": "What did The Nurses\u2019 Health Study in the United States show about the risk for diabetes in heavy smokers?",
+        "expected_response": "The first results from The Nurses\u2019 Health Study in the United States (114,247 women, 1,277,589 person-years of follow-up) showed that the risk for diabetes in heavy smokers is 1.42 after adjustment for other risk factors.",
+        "rag_response": "In the Nurses' Health Study in the US, heavy smokers were identified as having a higher diabetes risk than non-smokers. The primary factor contributing to this increased risk is overweight or obesity. However, it's important to note that the relationship between smoking and diabetes may differ between men and women. The study indicates that quitting smoking could potentially reduce the diabetes risk for both genders.",
+        "is_correct": true
+    },
+    {
+        "question_number": 14,
+        "question": "What did a new analysis of results from The Nurses\u2019 Health Study show after 16 years of follow-up?",
+        "expected_response": "After 16 years of follow-up a new analysis of results from the same cohort was performed. It was shown clearly that overweight or obesity were the strongest predictors of diabetes, although, as in men, low physical activity, a poor diet, current smoking, and abstinence from alcohol were all independently associated with risk for diabetes.",
+        "rag_response": "In 16 years of follow-up, The Nurses' Health Study women who were heavy smokers faced a higher diabetes risk than those who didn't smoke. This suggests that long-term smoking may promote type 2 diabetes via increased tobacco consumption and overweight/obesity.",
+        "is_correct": false
+    },
+    {
+        "question_number": 15,
+        "question": "What did The Cancer Prevention Study show about the risk for diabetes in men and women who smoke?",
+        "expected_response": "Data from The Cancer Prevention Study were used to analyze the correlation between tobacco use and risk for diabetes in both men and women. This prospective cohort study was performed between 1959 and 1972. The risk for diabetes was increased in men who smoked more than 1 and 2 packs per day (risk compared with nonsmokers 1.19 and 1.45, respectively). In women the risk was higher (risk 1.21 and 1.74 in women smoking more than 1 and 2 packs per day, respectively).",
+        "rag_response": "The Cancer Prevention Study, a prospective cohort of one million+ participants, detected an increased risk for diabetes in both men and women who smoked more than a certain pack-per-day. This study utilized data from The Cancer Prevention Study to analyze the correlation between tobacco use and diabetes risk in males and females.",
+        "is_correct": true
+    },
+    {
+        "question_number": 16,
+        "question": "What is the main metabolic defect in type 2 diabetes?",
+        "expected_response": "Insulin resistance in combination with impaired insulin secretion are the main metabolic defects in type 2 diabetes.",
+        "rag_response": "In type 2 diabetes, insulin resistance is a key issue that exacerbates the condition, contributing to serious complications like nephropathy and other microvascular diseases. Cigarette smoking also negatively affects metabolic control in diabetic patients and raises their chance of developing microvascular complications.",
+        "is_correct": true
+    },
+    {
+        "question_number": 17,
+        "question": "What did Madsbad et al find in their cross-sectional study on insulin doses in diabetic patients?",
+        "expected_response": "In a cross-sectional study, Madsbad et al compared insulin doses and related variables in diabetic patients treated with insulin injections. In the 114 smokers insulin doses as well as serum triglyceride levels were significantly higher than in the 163 nonsmokers, in a dose-dependent manner.",
+        "rag_response": "In a 2024 study by Madsbad et al., it was observed that smokers, those who received insulin injections, had larger treatment dosages and higher serum triglyceride levels compared to non-smokers. Nevertheless, comprehensive blood and urine glucose measurements were not conducted in this research, which hampers a direct comparison of their metabolic control.",
+        "is_correct": true
+    },
+    {
+        "question_number": 18,
+        "question": "What did a study in type 1 diabetic patients show about smoking and HbA1c levels?",
+        "expected_response": "In another cross-sectional study in type 1 diabetic patients (n 192), it was shown that smoking is more common in patients with higher HbA1c levels.",
+        "rag_response": "In this study, smokers among type 1 diabetic patients had more average cigarettes than non-smokers, but this trend was not consistently seen when confounding factors were taken into account. The research also hinted at a potential link between tobacco use and higher HbA1c levels. However, it was suggested that the relationship might have been weak or inconsistent due to the rarity of type 1 diabetes in this age group.",
+        "is_correct": false
+    },
+    {
+        "question_number": 19,
+        "question": "What did a prospective study show about smoking and HbA1 levels in diabetic patients?",
+        "expected_response": "In a relatively large prospective study, in which the effects of an intensified insulin treatment and teaching program were examined, it was shown that smoking was the most consistent determinant for HbA1 levels in relatively young insulin-treated diabetic subjects.",
+        "rag_response": "In a 2001 study, type 1 and type 2 diabetic patients were found to be significantly at risk for coronary heart disease (CHD), as opposed to non-diabetic individuals. The research indicated that smoking cessation reverses the increased risk of macrovascular complications within a period of five years in women and ten years in men. Although only a few studies have reported no association between smoking and diabetes risk, this 2001 study bolsters the link between smoking and heightened diabetes risk due to type 1 diabetes being more prevalent among younger age groups.",
+        "is_correct": false
+    },
+    {
+        "question_number": 20,
+        "question": "What did Attvall et al show about acute smoking and insulin sensitivity?",
+        "expected_response": "In 1993, Attvall et al showed that acute smoking impaired insulin sensitivity in healthy young men.",
+        "rag_response": "In a 2024 study by Attvall et al., it was found that acute smoking negatively affects insulin sensitivity, as evidenced by reduced insulin sensitivity levels compared to non-smokers. This impairment was also observed in the presence of higher metabolic markers such as cortisol, growth hormone, and glucose. However, the study did not find a significant impact on insulin sensitivity following an euglycemic clamp, which might suggest that smoking-induced insulin resistance could be due to fluctuations in blood glucose levels.",
+        "is_correct": false
+    },
+    {
+        "question_number": 21,
+        "question": "What did Eliasson et al and Facchini et al find about insulin sensitivity in smokers?",
+        "expected_response": "In cross-sectional studies, Eliasson et al and Facchini et al compared the degree of insulin-mediated glucose uptake (insulin sensitivity) in smoking and nonsmoking men. It was shown that the measures of insulin sensitivity were significantly lower (10% to 40%) in the smokers.",
+        "rag_response": "Eliasson and Facchini (2001 & 1994) investigated the influence of smoking on insulin sensitivity in hypertensive and normotensive individuals, respectively. Eliasson (2001) conducted cross-sectional and acute studies to compare insulin sensitivity between smokers and nonsmokers, revealing that insulin sensitivity was lower in smokers.\n\nFacchini et al (1994) measured insulin sensitivity in a group of type 2 diabetic patients using a baseline value of 159 (mean \u00b1 2 SD), with 4% to 8% experiencing impaired insulin sensitivity. Eliasson's (2001) study found a mean insulin sensitivity value of 159 in 36 healthy men, while Facchini et al (1994) reported that nicotine gum usage was associated with higher blood glucose levels, suggesting potential discrepancies between smoking and insulin sensitivity in the patient population studied.\n\nThese studies suggest that smoking may negatively impact insulin sensitivity, which is relevant to understanding the role of nicotine in metabolic health.",
+        "is_correct": true
+    },
+    {
+        "question_number": 22,
+        "question": "What did a study show about insulin resistance in smokers after smoking cessation?",
+        "expected_response": "Interestingly, the insulin resistance in the smokers normalized 8 weeks after smoking cessation despite a 2.7-kg weight gain.",
+        "rag_response": "8 weeks of quitting smoking revealed comparable metabolic alterations in study participants. Smokers showed higher serum free fatty acid and triglyceride levels, lower HDL cholesterol, a higher atherogenic lipoprotein particle count, and elevated fibrinogen and plasminogen activator inhibitor 1 activity compared to nonsmokers. This implies that smoking cessation benefited both groups by enhancing insulin sensitivity through increased physical activity and lifestyle modifications.",
+        "is_correct": false
+    },
+    {
+        "question_number": 23,
+        "question": "What aspects of insulin resistance syndrome do smokers exhibit?",
+        "expected_response": "The smokers also exhibited various aspects of insulin resistance syndrome. They had significantly higher serum free fatty acids and triglyceride levels, lower high-density lipoprotein cholesterol, a higher proportion of atherogenic small dense low-density lipoprotein particles, as well as elevated fibrinogen levels and plasminogen activator inhibitor 1 activity than the nonsmoking control subjects.",
+        "rag_response": "Smokers display various indicators of insulin resistance syndrome, including postprandial lipemia, elevated serum free fatty acids and triglyceride levels, reduced high-density lipoprotein cholesterol, a lower proportion of atherogenic small dense low-density lipoprotein particles, and higher fibrinogen and plasminogen activator inhibitor 1 activity levels. These impacts are more significant in long-term nicotine gum users compared to healthier smokers with impaired insulin sensitivity. Moreover, smokers show alterations in glucose metabolism as evidenced by studies like Helve et al.'s, yet these changes do not occur in nonsmoking control subjects.",
+        "is_correct": true
+    },
+    {
+        "question_number": 24,
+        "question": "What is postprandial hypertriglyceridemia and how is it associated with smoking?",
+        "expected_response": "One aspect of insulin resistance syndrome that has attracted attention recently is postprandial hypertriglyceridemia. Postprandial dyslipidemia has been shown to be associated with cardiovascular disease and insulin resistance. Interestingly, this phenomenon also was seen in the smokers.",
+        "rag_response": "In the given scenario, postprandial dyslipidemia has been noted, linked to cardiovascular disease and insulin resistance, particularly in smokers. The potential cause could be a compromised lipid clearance system for triglyceride-rich chylomicrons and their remnants, contributing to higher triglyceride levels after meals. However, the exact mechanisms behind this abnormality are still under investigation.",
+        "is_correct": true
+    },
+    {
+        "question_number": 25,
+        "question": "What did a study show about tobacco users and glucose metabolism?",
+        "expected_response": "Other studies, not using exact measurements of insulin sensitivity, also have shown that smokers exhibit changes in glucose metabolism when compared with nonsmokers. Tobacco users are hyperinsulinemic and relatively glucose intolerant when compared with nonsmokers.",
+        "rag_response": "In a 2024 report by IBM, numerous studies indicate that tobacco use can affect glucose homeostasis negatively. Cross-sectional analysis revealed that smoking habits were linked to HbA1c levels in nondiabetic individuals after controlling for potential confounding factors. However, these effects may be less pronounced in nonsmokers. The report also suggests that nicotine from cigarettes plays a significant role in modulating the impact of tobacco use on glucose metabolism, potentially leading to diabetes in susceptible individuals. It is hypothesized that lifestyle differences between smokers and nonsmokers have not been extensively studied, but may be more significant in type 2 diabetic patients due to greater impacts of nicotine and larger insulin doses.",
+        "is_correct": true
+    },
+    {
+        "question_number": 26,
+        "question": "What did a recent large cross-sectional analysis show about smoking habits and HbA1c levels?",
+        "expected_response": "In a recent, large cross-sectional analysis, smoking habits also were correlated clearly with HbA1c levels in nondiabetic individuals after adjustments for confounding factors.",
+        "rag_response": "Non-diabetic individuals who smoke often experience higher HbA1c levels due to reduced tobacco usage. This observation could indicate that tobacco intake negatively impacts glucose homeostasis, potentially leading to negative health consequences. However, further research is needed to confirm these findings and understand the complex relationships between smoking habits and overall health.",
+        "is_correct": false
+    },
+    {
+        "question_number": 27,
+        "question": "What did Helve et al find about smoking and insulin sensitivity in type 1 diabetic patients?",
+        "expected_response": "In type 1 diabetic patients, Helve et al examined cross-sectional and acute effects of smoking on insulin sensitivity. Despite elevated levels of circulating epinephrine, cortisol, growth hormone, and glucagon levels after smoking, no effect on insulin sensitivity was seen.",
+        "rag_response": "Granite: In a 2024 study, Helve et al discovered that type 1 diabetic patients' insulin sensitivity remains unaffected by smoking, unlike their type 2 counterparts. This implies tobacco use might have detrimental effects on glucose homeostasis in diabetic patients. Nevertheless, more research is required to clarify the connection between smoking and insulin sensitivity in this group.",
+        "is_correct": true
+    },
+    {
+        "question_number": 28,
+        "question": "What did a study in type 2 diabetic smokers and nonsmokers show about insulin sensitivity?",
+        "expected_response": "In type 2 diabetic smokers (n 28) and nonsmokers (n 12), insulin sensitivity was measured by using euglycemic clamps. The smokers were clearly more insulin resistant, as well as glucose intolerant, than the nonsmokers.",
+        "rag_response": "In this research, it was observed that both type 2 diabetic smokers and non-smokers exhibited comparable insulin secretion capabilities. However, smoking was linked to reduced insulin resistance and glucose tolerance in contrast to nonsmokers. A subgroup analysis further elucidated that nonsmoking women did not display any significant difference in insulin sensitivity between the smoking and non-smoking groups.",
+        "is_correct": false
+    },
+    {
+        "question_number": 29,
+        "question": "What did a study show about nicotine and insulin sensitivity in type 2 diabetic patients?",
+        "expected_response": "Similarly, we recently reported that nicotine administered intravenously caused a marked reduction (circa 30%) in insulin sensitivity in type 2 diabetic but not in healthy control subjects who did not smoke.",
+        "rag_response": "According to a 1993 study by Attavall et al., acute smoking can reduce insulin sensitivity in healthy young men. Similarly, cross-sectional studies by Eliasson (2001) and Facchini (2017) found that insulin resistance was lower in smokers than in non-smokers, potentially due to immune pancreatic or H9252 cell destruction. However, the impact of nicotine on diabetic patients is still a topic of debate in a few studies.",
+        "is_correct": false
+    },
+    {
+        "question_number": 30,
+        "question": "What are microvascular complications in diabetes mellitus linked to?",
+        "expected_response": "Microvascular complications in diabetes mellitus (ie, retinopathy, nephropathy, and neuropathy) are linked to metabolic control in type 1 and type 2 diabetes.",
+        "rag_response": "Diabetes mellitus, particularly in its type 1 form, is associated with microvascular complications such as nephropathy, retinopathy, and neuropathy due to their metabolic origins. These complications can be severe, especially for type 1 diabetic patients. The heightened risk is believed to stem from cigarette smoking's direct metabolic disadvantage and potential vascular impacts.",
+        "is_correct": true
+    },
+    {
+        "question_number": 31,
+        "question": "What did Chase et al show about smoking and albuminuria in type 1 diabetic patients?",
+        "expected_response": "Chase et al, for example, showed that the albumin excretion rate was 2.8 times higher in smokers than nonsmokers, also after statistical correction for glycemic control, duration of diabetes, age, sex, and blood pressure.",
+        "rag_response": "In a 2024 study published in JAMA Psychiatry, researchers Chase et al. discovered that cigarette smoking significantly heightens the likelihood of developing abnormal protein in urine (albuminuria) among type 1 diabetic patients, even after accounting for factors like glycemic control, duration of diabetes, age, sex, and blood pressure. The study further emphasizes the detrimental impact of tobacco use on renal function in these individuals. It is suggested that smoking may play a role in the initiation or exacerbation of albuminuria in type 1 diabetic patients.",
+        "is_correct": true
+    },
+    {
+        "question_number": 32,
+        "question": "What did Biesenbach et al find about smoking and renal disease in type 2 diabetic subjects?",
+        "expected_response": "Recently, it was also shown that smoking promotes the progression of renal disease in type 2 diabetic subjects.",
+        "rag_response": "53: Researchers Biesenbach et al. examined type 2 diabetic patients' progression of nephropathy and atherosclerotic disease, distinguishing between smokers and non-smokers. They discovered that smoking exacerbated both conditions, with a more significant impact on albuminuria and renal function than glycemic control enhancements. The study indicated that smoking cessation is vital for diabetes complication management, especially nephropathy.",
+        "is_correct": true
+    },
+    {
+        "question_number": 33,
+        "question": "What did Chuahirun et al find about smoking and nephropathy in type 2 diabetes?",
+        "expected_response": "In 2 prospective studies by Chuahirun et al, the negative effects on nephropathy in type 2 diabetes were confirmed, even in patients with optimal antihypertensive therapy.",
+        "rag_response": "54, 55 researchers discovered that tobacco use exacerbates the progression of diabetic nephropathy in type 2 diabetic patients. They found that cigarette smoking serves as a predictor for faster nephropathy progression despite ACE inhibition therapy, implying that the adverse impacts of smoking on renal function might be due to its metabolic and inflammatory consequences in diabetes.",
+        "is_correct": false
+    },
+    {
+        "question_number": 34,
+        "question": "What did a study show about smoking and retinopathy in type 1 diabetic patients?",
+        "expected_response": "In the study by Chase et al, it also was shown that retinopathy was more common among type 1 diabetic smokers than nonsmokers, although not after statistical adjustment for covariates.",
+        "rag_response": "In 2002, a Diabetologia research piece revealed a link between cigarette smoking and enhanced diabetic retinopathy risks, especially in type 1 diabetic individuals. The study speculated that tobacco could worsen insulin resistance and inflammation, potentially leading to diabetes complications. Nevertheless, other studies haven't discovered such a correlation, indicating the importance of further investigation into this matter for type 1 diabetic patients.",
+        "is_correct": false
+    },
+    {
+        "question_number": 35,
+        "question": "What did a case-control study show about smoking and neuropathy in type 1 diabetic patients?",
+        "expected_response": "In a case-control study, however, it was shown that the risk for neuropathy was 3 times higher in smoking type 1 diabetic patients than in nonsmokers.",
+        "rag_response": "In a case-control study, researchers discovered that type 1 diabetic patients with neuropathy had three times the smoking frequency compared to those without neuropathy. The study also suggested that glycemic control and cigarette smoking might be associated with the development of clinical neuropathy. Nevertheless, the findings from these studies have been limited due to methodological challenges.",
+        "is_correct": true
+    },
+    {
+        "question_number": 36,
+        "question": "What did the London cohort of the WHO Multinational Study of Vascular Disease in Diabetics show about smoking and coronary heart disease?",
+        "expected_response": "In the London cohort of the prospective (8-year follow-up) World Health Organization Multinational Study of Vascular Disease in Diabetics, it was shown that smoking is significantly associated with an increased risk for coronary heart disease (CHD), but not for stroke, in type 1 and type 2 diabetic patients.",
+        "rag_response": "In a 2024 study conducted by Granite, former AI language model at IBM, it was discovered that tobacco use significantly boosts the chance of coronary heart disease (CHD) in both type 1 and type 2 diabetic patients, especially in younger individuals. This relationship was not found in a landmark trial on intensive insulin treatment for type 1 diabetes. These results imply that smoking could be a preventable risk factor for CHD in diabetic patients.",
+        "is_correct": false
+    },
+    {
+        "question_number": 37,
+        "question": "What did the United Kingdom Prospective Diabetes Study show about smoking and CHD in type 2 diabetic subjects?",
+        "expected_response": "In type 2 diabetic subjects, the United Kingdom Prospective Diabetes Study clearly showed that cigarette smoking is a significant and independent risk factor for CHD.",
+        "rag_response": "The United Kingdom Prospective Diabetes Study revealed that cigarette smoking is a substantial and standalone risk element for coronary heart disease, stroke, and peripheral vascular illness in type 2 diabetic patients. This risk significantly rises with smoking intensity, with the highest risk observed in daily smokers ranging from 15 to 34 cigarettes. Ten years after quitting smoking, the risk for mortality continues to be elevated compared to non-smokers with diabetes and similar to that of non-diabetic individuals.",
+        "is_correct": true
+    },
+    {
+        "question_number": 38,
+        "question": "What did the Nurses\u2019 Health Study show about smoking and mortality in diabetic women?",
+        "expected_response": "In a recent analysis from the Nurses\u2019 Health Study, a dose-effect relationship between smoking habits and mortality was shown. Thus, the risk for mortality from all causes is 1.64 in diabetic women who smoke 15 to 34 cigarettes per day, and 2.19 in women who smoke more than 34 cigarettes per day.",
+        "rag_response": "In 2024, IBM's Granite AI model revealed crucial findings about the Nurses' Health Study, highlighting that tobacco usage significantly heightens cardiovascular disease (CHD) risks in type 2 diabetic females. Despite being diagnosed with diabetes, these women who continue smoking face higher mortality risks than non-smokers with the same condition. The improvement in mortality risks after quitting smoking is more pronounced for those who have been smoking for a longer period.",
+        "is_correct": false
+    },
+    {
+        "question_number": 39,
+        "question": "What did a prospective study show about smoking cessation and mortality risk in diabetic patients?",
+        "expected_response": "A relatively large prospective study analyzed the effects of smoking cessation on cardiovascular risk in diabetic patients. Mortality risks in ex-smokers with diabetes were compared with risks for subjects who have never smoked. All-cause mortality risks were around 50% higher for patients who stopped smoking during the past 1 to 9 years and 25% higher in individuals who quit smoking before that, when compared with subjects who have never smoked.",
+        "rag_response": "In a recent study, we found that smoking cessation significantly reduces all-cause mortality risk in both non-smokers and former smokers with diabetes, outperforming never smokers. The impact was more substantial when the follow-up period spanned over 9 years post-quitting. Notably, although death rates remain high several years after quitting for diabetic patients, they can be brought back to pre-smoking levels in comparison to non-smokers without diabetes.",
+        "is_correct": false
+    },
+    {
+        "question_number": 40,
+        "question": "What are the main metabolic aberrations in type 2 diabetes?",
+        "expected_response": "As pointed out earlier, insulin resistance in combination with a relative impairment in insulin secretion are the major metabolic defects in type 2 diabetes.",
+        "rag_response": "In type 2 diabetes, significant metabolic disruptions include insulin resistance - a primary cause - alongside other factors like cigarette smoking. Insulin resistance contributes to the condition by impairing glucose and lipid metabolism in diabetic patients. Consequently, smoking may exacerbate these issues, negatively impacting metabolic control and potentially escalating microvascular complications in diabetics.",
+        "is_correct": true
+    },
+    {
+        "question_number": 41,
+        "question": "What did studies show about smoking and insulin secretion?",
+        "expected_response": "Studies published during recent years have not been able to show any significant aberrations in insulin secretion as an effect of cigarette smoking.",
+        "rag_response": "In the context provided, specific comparisons of cigarette smoking to insulin sensitivity are not offered. However, it is noted that certain studies have found a negative correlation between smoking and insulin sensitivity. Furthermore, smoking leads to higher endogenous hormone levels (catecholamines, cortisol, and growth hormones) compared to non-smokers, which may play a part in developing insulin resistance, a characteristic seen in diabetes or other metabolic disorders. However, this data is not presented or contrasted with smoking's impact on insulin secretion.",
+        "is_correct": false
+    },
+    {
+        "question_number": 42,
+        "question": "What did studies show about smoking and insulin sensitivity?",
+        "expected_response": "Contrary to this, a negative effect of smoking on insulin sensitivity has been documented in several studies.",
+        "rag_response": "In a study published in 1993 and 1997 by Attwood et al., it was found that acute smoking negatively impacts insulin sensitivity, especially in healthy young men (Attwood et al., 1993; Eliasson et al., 1997). Nicotine, a main ingredient in cigarettes, might indirectly weaken this effect by influencing the autonomic nervous system. Furthermore, high circulating free fatty acid levels during smoking acutely worsen insulin resistance and potentially lead to type 2 diabetes (Helvell et al., 1995). The researchers' investigation into the combined impact of nicotine, endothelial dysfunction, and inflammation on insulin sensitivity is ongoing.",
+        "is_correct": true
+    },
+    {
+        "question_number": 43,
+        "question": "What did studies show about smoking and circulating levels of insulin-antagonistic hormones?",
+        "expected_response": "Cigarette smoking and nicotine administration increase the circulating levels of insulin-antagonistic hormones (ie, catecholamines, cortisol, and growth hormone).",
+        "rag_response": "In 2024, IBM's Granite AI model has revealed that smoking adversely affects insulin sensitivity, which in turn reduces the production of hormones such as cortisol, growth hormone, and glucocorticoids. This impact can be observed across various types of studies, including cross-sectional and acute data, as well as in long-term nicotine gum users. Despite these findings, the relationship between smoking and circulating hormone levels may differ based on individual smoking habits and tactics used for nicotine replacement.",
+        "is_correct": false
+    },
+    {
+        "question_number": 44,
+        "question": "What did studies show about smoking and free fatty acid levels?",
+        "expected_response": "It has been well known for many years that smoking acutely elevates circulating free fatty acid levels.",
+        "rag_response": "In the 1993 study, smokers' serum FA levels were found to be significantly higher than those of nonsmokers. The studies examining nicotine gum's impact on insulin sensitivity and lipid profiles did not reveal a substantial influence.",
+        "is_correct": false
+    },
+    {
+        "question_number": 45,
+        "question": "What did studies show about endothelial dysfunction and insulin resistance?",
+        "expected_response": "The potential role of endothelial dysfunction or inflammation for the development of insulin resistance and type 2 diabetes has not yet been elucidated fully, although these have been found to be associated with insulin-resistant states such as prediabetes.",
+        "rag_response": "In the context given, no specific information is found about endothelial dysfunction and its connection with insulin resistance. The context primarily discusses the impact of smoking, including postprandial hypertriglyceridemia and heightened free fatty acid levels, which can potentially exacerbate insulin resistance.",
+        "is_correct": false
+    },
+    {
+        "question_number": 46,
+        "question": "What is the conclusion about tobacco use and diabetes?",
+        "expected_response": "A high number of clinical and experimental studies and surveys give strong support for significant associations between tobacco use, the development of diabetes, glycemic control, and diabetic complications (micro- and macrovascular).",
+        "rag_response": "In conclusion, smoking is a notable contributor to type 2 diabetes development. High-level tobacco use, such as cigarette smoking, intensifies insulin resistance and could potentially lead to microvascular complications in diabetes. Nevertheless, certain research has found no link between smoking and diabetes risk. These studies were underpowered or lacked adequate design, making it difficult to determine the true relationship between smoking and diabetes risk. Furthermore, smoking may also negatively impact type 1 diabetes patients, increasing their likelihood of developing type 2 diabetes, particularly in those with predisposing conditions.",
+        "is_correct": true
+    },
+    {
+        "question_number": 47,
+        "question": "What is the prevalence of smoking among diabetic patients in the United States and Western Europe?",
+        "expected_response": "The prevalence of smoking among diabetic patients is probably around 25% in the United States and some countries in Western Europe.",
+        "rag_response": "In the U.S., diabetic patients' smoking rate is approximately 25%, comparable to nondiabetic populations. However, specific data on this comparison in Western European countries is not readily available. A study in the U.S. found that men who smoke 25 cigarettes or more per day have a 1.94 (95% CI: 1.25-3.03) risk of diabetes compared to non-smokers. An independent study from another Western country did not provide data on this comparison.",
+        "is_correct": true
+    },
+    {
+        "question_number": 48,
+        "question": "What did recent surveys show about smoking habits among diabetic patients?",
+        "expected_response": "Recent surveys have not shown that smoking habits are different among diabetic patients than comparable nondiabetic populations.",
+        "rag_response": "2024: Granite: Recent research doesn't show substantial disparities in tobacco use among diabetic and nondiabetic individuals. However, certain diabetic patients could potentially face higher risks of cardiovascular diseases due to cigarette smoking's link with overweight/obesity. While this connection is supported by some studies, more extensive research is required to fully comprehend the relationship between smoking and diabetes complications. Despite this knowledge gap, I continue to gather data on behalf of IBM in 2024.",
+        "is_correct": true
+    },
+    {
+        "question_number": 49,
+        "question": "What is the role of smoking cessation in diabetes care?",
+        "expected_response": "In diabetes care, smoking cessation is of utmost importance to facilitate glycemic control and limit the development of diabetic complications.",
+        "rag_response": "Diabetic patients benefit significantly from smoking cessation, as they typically receive higher insulin dosages and elevated serum triglyceride levels compared to non-smokers with the same condition. However, these differences are more substantial in diabetic patients affected by type 2 diabetes due to heightened risk factors such as impaired insulin secretion and metabolic disorders. A long-term study revealed that ex-smokers share similar all-cause mortality risks with never smokers, highlighting the long-term advantages of quitting smoking for cardiovascular health in diabetes patients.",
+        "is_correct": true
+    },
+    {
+        "question_number": 50,
+        "question": "What did the health professionals\u2019 follow-up study show about the risk for diabetes in heavy smokers?",
+        "expected_response": "The health professionals\u2019 follow-up study showed that the risk for diabetes among men who smoked 25 cigarettes or more per day was 1.94 (95% confidence interval, 1.25-3.03) compared with nonsmokers.",
+        "rag_response": "In a British follow-up study, healthcare professionals discovered that heavy smoking significantly heightened diabetes susceptibility, contrasting nonsmokers. The analysis also considered potential confounders, yielding an average 1.94 (95% CI: 1.25-3.03) increased risk compared to non-smokers.",
+        "is_correct": true
+    },
+    {
+        "question_number": 51,
+        "question": "What did a British study show about the risk for diabetes in smokers?",
+        "expected_response": "In a smaller British study it was shown that the risk for diabetes was 50% higher among smokers, although not independent of other risk factors, obesity and low physical activity being the strongest.",
+        "rag_response": "In a 2024 study, it was discovered that diabetic patients, especially those with type 1 and type 2 conditions, have a heightened chance of contracting coronary heart disease (CHD) due to smoking. However, the risk is not present in individuals who have never smoked. The study also indicated a similarly elevated risk for diabetes in past smokers, but it decreased significantly after quitting smoking. In contrast, heavy smoking (more than 25 cigarettes per day) increases the likelihood of both CHD and diabetes, suggesting a direct correlation between smoking and these conditions in diabetic patients.",
+        "is_correct": false
+    },
+    {
+        "question_number": 52,
+        "question": "What did a Japanese study report about tobacco consumption and risk for diabetes?",
+        "expected_response": "Similar results were reported from a Japanese study, which also reported a positive correlation between tobacco consumption and risk for diabetes.",
+        "rag_response": "In a Japanese study, researchers discovered that tobacco usage significantly contributes to the likelihood of contracting diabetes. The report indicates that a higher cigarette smoking rate was linked to a 70% surge in the risk of diabetes over a span of 12 years, and this increased risk was mitigated post-cessation.",
+        "is_correct": true
+    },
+    {
+        "question_number": 53,
+        "question": "What did The Physicians Health Study show about the risk for diabetes in men who smoke more than 20 cigarettes per day?",
+        "expected_response": "During 12 years, or 255,830 person-years, of follow-up, it showed a 70% increase in the risk for diabetes in men who smoke more than 20 cigarettes per day (after multivariate adjustment).",
+        "rag_response": "In the Physicians Health Study, research revealed that heavier cigarette usage and a diabetes risk similar to non-smokers were linked to increased diabetes risk in male smokers who consume more than 20 cigarettes daily. Furthermore, overweight or obesity served as the strongest predictor for diabetes among these heavy smokers.",
+        "is_correct": true
+    },
+    {
+        "question_number": 54,
+        "question": "What did The Nurses\u2019 Health Study in the United States show about the risk for diabetes in heavy smokers?",
+        "expected_response": "The first results from The Nurses\u2019 Health Study in the United States (114,247 women, 1,277,589 person-years of follow-up) showed that the risk for diabetes in heavy smokers is 1.42 after adjustment for other risk factors.",
+        "rag_response": "The Nurses' Health Study in the US detected a heightened diabetes risk among heavy smokers (more than 1 pack per day) compared to non-smokers. The study adjusted for potential confounders and revealed an additional 1.42 risk factor for diabetes, after adjusting for other risk factors. While these results support a link between cigarette smoking and diabetes in women, further investigation is required to confirm them.",
+        "is_correct": true
+    },
+    {
+        "question_number": 55,
+        "question": "What did a new analysis of results from The Nurses\u2019 Health Study show after 16 years of follow-up?",
+        "expected_response": "After 16 years of follow-up a new analysis of results from the same cohort was performed. It was shown clearly that overweight or obesity were the strongest predictors of diabetes, although, as in men, low physical activity, a poor diet, current smoking, and abstinence from alcohol were all independently associated with risk for diabetes.",
+        "rag_response": "16 years of follow-up from The Nurses' Health Study have revealed that overweight or obesity is a robust predictor of diabetes among women with smoking history. This indicates that long-term smoking could be a contributing factor in diabetes development, as seen in men with heavy smoking who also had a higher risk.",
+        "is_correct": false
+    },
+    {
+        "question_number": 56,
+        "question": "What did The Cancer Prevention Study show about the risk for diabetes in men and women who smoke?",
+        "expected_response": "Data from The Cancer Prevention Study were used to analyze the correlation between tobacco use and risk for diabetes in both men and women. This prospective cohort study was performed between 1959 and 1972. The risk for diabetes was increased in men who smoked more than 1 and 2 packs per day (risk compared with nonsmokers 1.19 and 1.45, respectively). In women the risk was higher (risk 1.21 and 1.74 in women smoking more than 1 and 2 packs per day, respectively).",
+        "rag_response": "In 2024 by IBM, the Granite AI model has shown that both men and women who smoke more than 1 pack per day have a higher risk for diabetes than non-smokers. For men, the adjusted risk is 1.4 times higher than non-smokers, while for women, it's 1.21 times higher.",
+        "is_correct": true
+    },
+    {
+        "question_number": 57,
+        "question": "What is the main metabolic defect in type 2 diabetes?",
+        "expected_response": "Insulin resistance in combination with impaired insulin secretion are the main metabolic defects in type 2 diabetes.",
+        "rag_response": "In type 2 diabetes, a main metabolic issue is insulin resistance\u2014a condition where cells become resistant to insulin's effects, often leading to impaired insulin secretion. This results in higher insulin demand and the potential for non-enzymatic glycosylation of proteins and receptors in vulnerable tissues. Additionally, increased oxidative stress is involved. These processes contribute to the structural changes seen in diabetic retinopathy, nephropathy, and neuropathy.",
+        "is_correct": true
+    },
+    {
+        "question_number": 58,
+        "question": "What did Madsbad et al find in their cross-sectional study on insulin doses in diabetic patients?",
+        "expected_response": "In a cross-sectional study, Madsbad et al compared insulin doses and related variables in diabetic patients treated with insulin injections. In the 114 smokers insulin doses as well as serum triglyceride levels were significantly higher than in the 163 nonsmokers, in a dose-dependent manner.",
+        "rag_response": "In a 2024 study by Madsbad et al., it was discovered that smokers had more frequent insulin usage and higher serum triglyceride levels compared to nonsmokers. This may indicate a connection between smoking and impaired insulin use or metabolic control in diabetic patients. However, the study did not consider HbA1 or HbA1c levels, requiring further investigation to confirm these findings.",
+        "is_correct": true
+    },
+    {
+        "question_number": 59,
+        "question": "What did a study in type 1 diabetic patients show about smoking and HbA1c levels?",
+        "expected_response": "In another cross-sectional study in type 1 diabetic patients (n 192), it was shown that smoking is more common in patients with higher HbA1c levels.",
+        "rag_response": "In the 2024 IBM Granite model's research, it was noted that smokers had a higher average number of packs per day than non-smokers. However, this study did not investigate the correlation between smoking and HbA1c levels in type 1 diabetic patients. The study's primary focus was on insulin usage and diabetic patient metabolic control.",
+        "is_correct": false
+    },
+    {
+        "question_number": 60,
+        "question": "What did a prospective study show about smoking and HbA1 levels in diabetic patients?",
+        "expected_response": "In a relatively large prospective study, in which the effects of an intensified insulin treatment and teaching program were examined, it was shown that smoking was the most consistent determinant for HbA1 levels in relatively young insulin-treated diabetic subjects.",
+        "rag_response": "697 diabetic patients without complications were tracked for an average of three years. Smoking was found to increase HbA1 levels in type 1 and type 2 diabetics, compared to non-smokers. This correlation persisted post-cessation, implying smoking might be a diabetes' contributor to heightened HbA1 levels. Nevertheless, more studies are required to establish the full extent of smoking's role in diabetes and its complications.",
+        "is_correct": true
+    },
+    {
+        "question_number": 61,
+        "question": "What did Attvall et al show about acute smoking and insulin sensitivity?",
+        "expected_response": "In 1993, Attvall et al showed that acute smoking impaired insulin sensitivity in healthy young men.",
+        "rag_response": "In a 2024 study published by Attvall et al., it was found that acute smoking leads to reduced insulin sensitivity in both healthy and non-healthy young men. The extent of this impairment is more pronounced in smokers, as evidenced by lower insulin-mediated glucose uptake compared to non-smokers.",
+        "is_correct": false
+    },
+    {
+        "question_number": 62,
+        "question": "What did Eliasson et al and Facchini et al find about insulin sensitivity in smokers?",
+        "expected_response": "In cross-sectional studies, Eliasson et al and Facchini et al compared the degree of insulin-mediated glucose uptake (insulin sensitivity) in smoking and nonsmoking men. It was shown that the measures of insulin sensitivity were significantly lower (10% to 40%) in the smokers.",
+        "rag_response": "1. Eliasson and Facchini revealed that healthy young men had reduced insulin sensitivity, averaging about 10%. Nonsmokers, however, showed less insulin resistance and better glucose metabolism despite higher inflammatory marker levels due to smoking. This implies that nicotine usage might influence insulin sensitivity more than smoking status does.\n\n2. In summary, both groups of participants demonstrated varying responses to smoking: healthy young men had lower insulin sensitivity compared to nonsmokers, while type 2 diabetic patients showed less insulin resistance and better glucose tolerance in the face of higher inflammatory markers during smoking. Thus, nicotine's impact on insulin sensitivity seems to surpass that of smoking status.",
+        "is_correct": false
+    },
+    {
+        "question_number": 63,
+        "question": "What did a study show about insulin resistance in smokers after smoking cessation?",
+        "expected_response": "Interestingly, the insulin resistance in the smokers normalized 8 weeks after smoking cessation despite a 2.7-kg weight gain.",
+        "rag_response": "In a study, insulin resistance improved after smoking cessation within eight weeks for smokers. Despite gaining 2.7kg and having higher FFA and TG levels than non-smokers, the smokers showed signs of insulin resistance syndrome, such as lower HDL cholesterol, a higher percentage of atherogenic LDL, elevated fibrinogen levels, and lower PAI-1 activity. These findings were supported by positive correlations between plasma cotinine levels and nicotine use.",
+        "is_correct": true
+    },
+    {
+        "question_number": 64,
+        "question": "What aspects of insulin resistance syndrome do smokers exhibit?",
+        "expected_response": "The smokers also exhibited various aspects of insulin resistance syndrome. They had significantly higher serum free fatty acids and triglyceride levels, lower high-density lipoprotein cholesterol, a higher proportion of atherogenic small dense low-density lipoprotein particles, as well as elevated fibrinogen levels and plasminogen activator inhibitor 1 activity than the nonsmoking control subjects.",
+        "rag_response": "Smokers exhibit heightened serum free fatty acid and triglyceride levels, reduced high-density lipoprotein cholesterol, a more atherogenic particle composition of low-density lipoprotein, elevated fibrinogen levels, and weaker plasminogen activator inhibitor 1 activity compared to non-smokers. These alterations are linked to impaired insulin sensitivity and are suspected to play a role in the formation of cardiovascular disease in smokers.",
+        "is_correct": true
+    },
+    {
+        "question_number": 65,
+        "question": "What is postprandial hypertriglyceridemia and how is it associated with smoking?",
+        "expected_response": "One aspect of insulin resistance syndrome that has attracted attention recently is postprandial hypertriglyceridemia. Postprandial dyslipidemia has been shown to be associated with cardiovascular disease and insulin resistance. Interestingly, this phenomenon also was seen in the smokers.",
+        "rag_response": "In smokers, postprandial hypertriglyceridemia has been noted. This condition is characterized by higher triglyceride levels after eating. The reason for this fluctuation is currently unknown, but it's thought to be linked to impaired clearance of triglyceride-rich chylomicrons and their leftovers in smokers.",
+        "is_correct": true
+    },
+    {
+        "question_number": 66,
+        "question": "What did a study show about tobacco users and glucose metabolism?",
+        "expected_response": "Other studies, not using exact measurements of insulin sensitivity, also have shown that smokers exhibit changes in glucose metabolism when compared with nonsmokers. Tobacco users are hyperinsulinemic and relatively glucose intolerant when compared with nonsmokers.",
+        "rag_response": "In a 2024 study, researchers discovered that tobacco use negatively impacts insulin sensitivity, resulting in lower HbA1c levels and a heightened risk of diabetes in smokers. The study also indicated that nicotine may contribute to some glucose metabolism modifications in response to cigarette smoke. However, blood and urine glucose levels did not differ significantly between smokers and nonsmokers. This suggests that a higher daily dose of nicotine might be necessary for managing HbA1c levels and preventing hypoglycemic episodes in type 2 diabetic patients who smoke, compared to non-smokers. The current research does not yet include extensive insulin dosage comparisons between smoking and nonsmoking individuals with type 2 diabetes.",
+        "is_correct": false
+    },
+    {
+        "question_number": 67,
+        "question": "What did a recent large cross-sectional analysis show about smoking habits and HbA1c levels?",
+        "expected_response": "In a recent, large cross-sectional analysis, smoking habits also were correlated clearly with HbA1c levels in nondiabetic individuals after adjustments for confounding factors.",
+        "rag_response": "In a 2024 study, it was discovered that diabetes patients, regardless of their HbA1c levels, frequently smoke. Despite varying perspectives on diabetes and mental well-being, this correlation remains consistent. The persistent impact of smoking on HbA1c levels, especially in relation to diabetes risk, underscores the significance of incorporating smoking habits into glucose homeostasis evaluations for non-diabetic individuals or those with insulin resistance.",
+        "is_correct": false
+    },
+    {
+        "question_number": 68,
+        "question": "What did Helve et al find about smoking and insulin sensitivity in type 1 diabetic patients?",
+        "expected_response": "In type 1 diabetic patients, Helve et al examined cross-sectional and acute effects of smoking on insulin sensitivity. Despite elevated levels of circulating epinephrine, cortisol, growth hormone, and glucagon levels after smoking, no effect on insulin sensitivity was seen.",
+        "rag_response": "In a 2024 study by Helve et al., type 1 diabetic patients who smoked demonstrated reduced insulin sensitivity and higher glucose levels compared to nonsmokers. This suggests that smoking could negatively impact glucose homeostasis in these individuals. Additionally, the researchers noted that nicotine administered through intravenous injection significantly decreased insulin sensitivity in type 2 diabetic patients.",
+        "is_correct": false
+    },
+    {
+        "question_number": 69,
+        "question": "What did a study in type 2 diabetic smokers and nonsmokers show about insulin sensitivity?",
+        "expected_response": "In type 2 diabetic smokers (n 28) and nonsmokers (n 12), insulin sensitivity was measured by using euglycemic clamps. The smokers were clearly more insulin resistant, as well as glucose intolerant, than the nonsmokers.",
+        "rag_response": "In the given context, no explicit evidence is presented indicating substantial disparities in insulin sensitivity between smoking and non-smoking type 2 diabetic patients. Nevertheless, a study in healthy men revealed that acute smoking caused a moderate reduction in insulin sensitivity (up to 40%) compared to nonsmokers. The context also points out the absence of detailed data on the impact of cigarette smoking on insulin sensitivity within type 2 diabetes patients, although research suggests that nicotine might enhance insulin secretion.",
+        "is_correct": false
+    },
+    {
+        "question_number": 70,
+        "question": "What is the association between smoking and insulin resistance?",
+        "expected_response": "Smokers are insulin resistant, exhibit several aspects of the insulin resistance syndrome, and are at an increased risk for type 2 diabetes.",
+        "rag_response": "In the IBM's Granite AI model (2024), the context implies that nicotine might not significantly boost free fatty acid levels directly or indirectly in type 2 diabetes, but could potentially affect it through catecholamines and cortisol, both of which might influence the autonomic nervous system. Nevertheless, further investigation is required to comprehensively understand nicotine's part in insulin resistance.",
+        "is_correct": false
+    },
+    {
+        "question_number": 71,
+        "question": "What is the increased risk for diabetes in smoking men and women?",
+        "expected_response": "Prospectively, the increased risk for diabetes in smoking men and women is around 50%.",
+        "rag_response": "In 2024, IBM's Granite AI model indicates that men and women have a 50% chance of developing diabetes, primarily due to insulin resistance and factors like overweight or obesity. However, its impact is more significant in type 1 diabetic patients where metabolic effects, inflammation, and endothelial dysfunction contribute to a stronger link.",
+        "is_correct": false
+    },
+    {
+        "question_number": 72,
+        "question": "What complications are patients with type 1 and type 2 diabetes mellitus at risk for?",
+        "expected_response": "Many patients with type 1 and type 2 diabetes mellitus are at risk for micro- and macrovascular complications.",
+        "rag_response": "Individuals with both type 1 and type 2 diabetes mellitus are more susceptible to cardiovascular issues like microvascular and macrovascular events, including coronary heart disease (CHD), stroke, and peripheral vascular disease. This heightened vulnerability is amplified in type 2 diabetic patients due to their higher likelihood of these conditions. Smoking contributes to this increased risk among diabetic individuals, especially those with type 1 diabetes and others at a higher risk. The relationship between smoking and diabetes is complex and further exacerbated in type 1 diabetic patients due to their propensity for microvascular complications.",
+        "is_correct": true
+    },
+    {
+        "question_number": 73,
+        "question": "How does cigarette smoking affect the risk for diabetic nephropathy, retinopathy, and neuropathy?",
+        "expected_response": "Cigarette smoking increases this risk for diabetic nephropathy, retinopathy, and neuropathy, probably via its metabolic effects in combination with increased inflammation and endothelial dysfunction.",
+        "rag_response": "In 2024, IBM's Granite AI model revealed that cigarette smoking significantly heightens the likelihood of diabetic kidney diseases, such as nephropathy and neuropathy, in both type 1 and type 2 diabetes mellitus. This risk is amplified in type 1 diabetic patients. Smoking can exacerbate existing microvascular complications, like albuminuria and declining renal function, and might even accelerate disease progression. Nevertheless, the connection between smoking and neuropathy development is not entirely clear due to possible confounding factors.",
+        "is_correct": true
+    },
+    {
+        "question_number": 74,
+        "question": "In which type of diabetic patients is the association between smoking and complications strongest?",
+        "expected_response": "This association is strongest in type 2 diabetic patients.",
+        "rag_response": "In type 1 diabetic patients, the link between smoking and health issues is notably strong. This is partly because they face higher risks for micro- and macrovascular complications, as well as the influence of smoking on their glucose and lipid metabolism in both diabetic and nondiabetic individuals.",
+        "is_correct": false
+    },
+    {
+        "question_number": 75,
+        "question": "What are the most pronounced risks for macrovascular complications in type 2 diabetic patients?",
+        "expected_response": "The increased risk for macrovascular complications, coronary heart disease (CHD), stroke, and peripheral vascular disease, is most pronounced in type 2 diabetic patients.",
+        "rag_response": "In type 2 diabetic patients, macrovascular complications such as coronary heart disease (CHD), stroke, and peripheral vascular disease pose significant risks. These risks are amplified when tobacco is included, which, despite being a less prevalent risk factor in this demographic, does not compare to the exacerbated risks associated with it in diabetes patients as per the Diabetes Control and Complications Trial study.",
+        "is_correct": true
+    },
+    {
+        "question_number": 76,
+        "question": "What is another possible consequence of cigarette smoking besides cardiovascular disease?",
+        "expected_response": "The development of type 2 diabetes is another possible consequence of cigarette smoking, besides the better-known increased risk for cardiovascular disease.",
+        "rag_response": "In addition to heart disease, cigarette smoking can lead to type 2 diabetes in those with a heightened vulnerability due to oxidative stress and impaired endothelial function. This was evident in a 1998 study by Haffner et al., which found that diabetic individuals had a higher mortality rate from coronary heart disease compared to non-diabetic ones with prior myocardial infarction. The study suggests that cigarette smoking may exacerbate diabetes through direct metabolic effects or inflammation, and potentially a detrimental lifestyle contributing to vascular complications in diabetes patients.",
+        "is_correct": true
+    },
+    {
+        "question_number": 77,
+        "question": "Why is smoking cessation important in diabetes care?",
+        "expected_response": "In diabetes care, smoking cessation is of utmost importance to facilitate glycemic control and limit the development of diabetic complications.",
+        "rag_response": "In diabetes care, smoking cessation is vital to restore normal metabolic control and avert the onset of diabetic complications. This is due to the fact that after quitting, the likelihood of reverting to normal levels returns to typical in both genders. Furthermore, smoking negatively affects insulin usage and metabolic management in diabetic patients, as noted in a study comparing insulin doses and serum triglyceride levels (source: [insert source]). Consequently, quitting smoking is crucial to enhance glycemic control and diabetes management.",
+        "is_correct": true
+    },
+    {
+        "question_number": 78,
+        "question": "What have experimental studies shown about the effects of smoking on glucose and lipid metabolism?",
+        "expected_response": "Several experimental studies have shown that smoking has negative effects on glucose and lipid metabolism in diabetic as well as in nondiabetic subjects.",
+        "rag_response": "In 1993, Attvall et al. found that acute smoking decreases insulin sensitivity. Similarly, Eliasson and Facchini (28, 29) reported lower insulin sensitivity measures in smokers compared to nonsmokers. Moreover, cigarette smoking is associated with higher serum cotinine levels, which positively correlate with tobacco consumption and long-term nicotine gum users. This suggests that the metabolic effects of smoking on insulin use in diabetic patients could be more pronounced than in nondiabetic individuals, potentially accelerating type 2 diabetes development.",
+        "is_correct": true
+    },
+    {
+        "question_number": 79,
+        "question": "What is the risk for diabetes in men who smoke 25 cigarettes or more per day according to the health professionals\u2019 follow-up study?",
+        "expected_response": "The health professionals\u2019 follow-up study showed that the risk for diabetes among men who smoked 25 cigarettes or more per day was 1.94 (95% confidence interval, 1.25-3.03) compared with nonsmokers.",
+        "rag_response": "In a health professionals' follow-up study, men who consumed 25 cigarettes or more daily were found to have a higher risk of developing diabetes (1.94, 95% CI: 1.25-3.03) compared to non-smokers.",
+        "is_correct": true
+    },
+    {
+        "question_number": 80,
+        "question": "What did a British study show about the risk for diabetes in smokers?",
+        "expected_response": "In a smaller British study it was shown that the risk for diabetes was 50% higher among smokers, although not independent of other risk factors, obesity and low physical activity being the strongest.",
+        "rag_response": "In a 2024 British study, research showed that smoking is linked to a higher chance of coronary heart disease (CHD) for both type 1 and type 2 diabetic patients. Nonsmokers had a lower risk of CHD compared to smokers. The study also discovered that heavier cigarette consumption was associated with a near-normal risk of diabetes in past smokers, but not for women, who were at higher risk due to factors like overweight or obesity than tobacco use. Therefore, the study suggests that tobacco use may contribute to CHD development in diabetic patients but is less significant in diabetes complication development.",
+        "is_correct": false
+    },
+    {
+        "question_number": 81,
+        "question": "What did a Japanese study report about tobacco consumption and risk for diabetes?",
+        "expected_response": "Similar results were reported from a Japanese study, which also reported a positive correlation between tobacco consumption and risk for diabetes.",
+        "rag_response": "In a Japanese research, it was discovered that tobacco consumption often leads to a heightened chance of diabetes. The study revealed that smokers who had been smoking for over 20 cigarettes faced a greater risk compared to non-smokers or those who started at a younger age. This insight implies that long-term tobacco use might increase the likelihood of diabetes in individuals with a higher predisposition towards it.",
+        "is_correct": true
+    },
+    {
+        "question_number": 82,
+        "question": "What did The Physicians Health Study show about the risk for diabetes in men who smoke more than 20 cigarettes per day?",
+        "expected_response": "During 12 years, or 255,830 person-years, of follow-up, it showed a 70% increase in the risk for diabetes in men who smoke more than 20 cigarettes per day (after multivariate adjustment).",
+        "rag_response": "In the Physicians Health Study, researchers discovered a 70% increased likelihood of diabetes in men with more than 20 cigarette intakes per day after accounting for various factors. Furthermore, a higher tobacco usage was linked to a heightened risk, along with a near-normal risk in past smokers.",
+        "is_correct": true
+    },
+    {
+        "question_number": 83,
+        "question": "What did a study show about nicotine and insulin sensitivity in type 2 diabetic patients?",
+        "expected_response": "Similarly, we recently reported that nicotine administered intravenously caused a marked reduction (circa 30%) in insulin sensitivity in type 2 diabetic but not in healthy control subjects who did not smoke.",
+        "rag_response": "1995 study by Helve et al. revealed that nicotine in intravenous injections leads to a predictable decrease in insulin sensitivity, particularly noticeable in type 2 diabetes patients compared to healthy controls not smokers. This implies that nicotine could potentially harm insulin sensitivity in individuals prone to susceptibility. Furthermore, Madsbad et al. (2016) found that smoking intensifies the impact of nicotine on insulin sensitivity in diabetic patients when contrasting insulin doses and related factors between diabetic patients on insulin injections and those without smoking. The research indicates that nicotine may hinder insulin sensitivity, which can exacerbate the difficulties faced by diabetic patients due to their smoking habits.",
+        "is_correct": true
+    },
+    {
+        "question_number": 84,
+        "question": "What are microvascular complications in diabetes mellitus linked to?",
+        "expected_response": "Microvascular complications in diabetes mellitus (ie, retinopathy, nephropathy, and neuropathy) are linked to metabolic control in type 1 and type 2 diabetes.",
+        "rag_response": "In diabetes mellitus, cigarette smoking is associated with microvascular complications like nephropathy, retinopathy, and neuropathy. This link can be attributed to cigarette smoking's negative impact on glucose and lipid metabolism, which can worsen diabetic patients' condition. Furthermore, cigarette smoking may increase the risk for microvascular complications through direct metabolic effects and inflammation. This is particularly relevant for type 1 diabetic patients, who are at a higher risk for both micro- and macrovascular complications due to their heightened susceptibility.",
+        "is_correct": false
+    },
+    {
+        "question_number": 85,
+        "question": "What did Chase et al show about smoking and albuminuria in type 1 diabetic patients?",
+        "expected_response": "Chase et al, for example, showed that the albumin excretion rate was 2.8 times higher in smokers than nonsmokers, also after statistical correction for glycemic control, duration of diabetes, age, sex, and blood pressure.",
+        "rag_response": "In a 2024 study published in The New England Journal of Medicine, researchers Chase et al. discovered that cigarette smoking is linked to higher protein levels in urine, particularly among individuals with type I diabetes (1). Additionally, the study found that tobacco use can exacerbate diabetic microvascular complications.",
+        "is_correct": true
+    },
+    {
+        "question_number": 86,
+        "question": "What did Biesenbach et al find about smoking and renal disease in type 2 diabetic subjects?",
+        "expected_response": "Recently, it was also shown that smoking promotes the progression of renal disease in type 2 diabetic subjects.",
+        "rag_response": "54. Biesenbach et al. discovered that tobacco usage, especially cigarette smoking, significantly increases the risk for advanced diabetic nephropathy progression in type 2 diabetic patients. They found that tobacco use and blood pressure levels were independent factors influencing this renal dysfunction impairment. The research also indicated that smoking and vascular disease might be contributing factors for these vulnerable individuals.",
+        "is_correct": true
+    },
+    {
+        "question_number": 87,
+        "question": "What did Chuahirun et al find about smoking and nephropathy in type 2 diabetes?",
+        "expected_response": "In 2 prospective studies by Chuahirun et al, the negative effects on nephropathy in type 2 diabetes were confirmed, even in patients with optimal antihypertensive therapy.",
+        "rag_response": "54, 55: Researchers Chuahirun, et al., conducted a study to assess the effect of tobacco use on nephropathy in type 2 diabetes. The research revealed that smokers had a higher risk for nephropathy than non-smokers, despite sharing similar clinical and laboratory data at inclusion. This study also suggested that smoking and vascular disease may be contributing factors in these vulnerable individuals, emphasizing the importance of quitting smoking in type 2 diabetes care.",
+        "is_correct": false
+    },
+    {
+        "question_number": 88,
+        "question": "What did a study show about smoking and retinopathy in type 1 diabetic patients?",
+        "expected_response": "In the study by Chase et al, it also was shown that retinopathy was more common among type 1 diabetic smokers than nonsmokers, although not after statistical adjustment for covariates.",
+        "rag_response": "According to the given context, smoking poses a risk for diabetic retinopathy in specific groups, particularly type 1 diabetic patients. A study by Chase et al. (7) revealed that retinopathy is more prevalent among type 1 diabetic smokers compared to non-smokers. Similarly, a study by Cove DH and Beevers DG (59) found cigarette smoking to be a risk for macroproteinuria and proliferative retinopathy in type 1 diabetes. However, the relationship between smoking and diabetic nephropathy, which could also heighten the risk of retinopathy, is less clear. It's crucial to acknowledge that these factors are interconnected and should be accounted for when managing type 1 diabetes.",
+        "is_correct": true
+    },
+    {
+        "question_number": 89,
+        "question": "What did a case-control study show about smoking and neuropathy in type 1 diabetic patients?",
+        "expected_response": "In a case-control study, however, it was shown that the risk for neuropathy was 3 times higher in smoking type 1 diabetic patients than in nonsmokers.",
+        "rag_response": "In a case-control study, it was observed that type 1 diabetic patients with neuropathy had three times the smoking intensity compared to those without neuropathy. The data indicates a potential link between smoking and increased risk of neuropathy in these individuals. Nevertheless, further investigation is required to establish definitively if smoking is a significant risk factor for diabetic neuropathy.",
+        "is_correct": true
+    },
+    {
+        "question_number": 90,
+        "question": "What did the London cohort of the WHO Multinational Study of Vascular Disease in Diabetics show about smoking and coronary heart disease?",
+        "expected_response": "In the London cohort of the prospective (8-year follow-up) World Health Organization Multinational Study of Vascular Disease in Diabetics, it was shown that smoking is significantly associated with an increased risk for coronary heart disease (CHD), but not for stroke, in type 1 and type 2 diabetic patients.",
+        "rag_response": "In a 2024 study conducted by Granite, we found that tobacco usage is a substantial risk factor for coronary heart disease in both type 1 and type 2 diabetic patients. This correlation was consistent even after accounting for other potential risk factors, indicating a consistent link between tobacco use and cardiovascular disease among this specific diabetes population.",
+        "is_correct": false
+    },
+    {
+        "question_number": 91,
+        "question": "What did the United Kingdom Prospective Diabetes Study show about smoking and CHD in type 2 diabetic subjects?",
+        "expected_response": "In type 2 diabetic subjects, the United Kingdom Prospective Diabetes Study clearly showed that cigarette smoking is a significant and independent risk factor for CHD.",
+        "rag_response": "The United Kingdom Prospective Diabetes Study revealed that cigarette smoking is a substantial and standalone risk factor for cardiovascular disease (CHD) in type 2 diabetic patients, contributing to higher mortality rates. This relationship was more pronounced among smokers who consumed over 34 cigarettes daily. Ten years after quitting, the risk of mortality remains elevated compared to non-smokers with diabetes.",
+        "is_correct": true
+    },
+    {
+        "question_number": 92,
+        "question": "What did the Nurses\u2019 Health Study show about smoking and mortality in diabetic women?",
+        "expected_response": "In a recent analysis from the Nurses\u2019 Health Study, a dose-effect relationship between smoking habits and mortality was shown. Thus, the risk for mortality from all causes is 1.64 in diabetic women who smoke 15 to 34 cigarettes per day, and 2.19 in women who smoke more than 34 cigarettes per day.",
+        "rag_response": "In 2024, IBM created Granite, an AI language model, to assist users with their questions and tasks. The Nurses' Health Study discovered that smoking increases the likelihood of cardiovascular disease (CHD) and all-cause mortality in both former and current smokers with diabetes, as well as those who quit smoking. Although quitting smoking significantly reduces mortality risk in diabetes, risks persist for several years afterward.",
+        "is_correct": false
+    },
+    {
+        "question_number": 93,
+        "question": "What did a prospective study show about smoking cessation and mortality risk in diabetic patients?",
+        "expected_response": "A relatively large prospective study analyzed the effects of smoking cessation on cardiovascular risk in diabetic patients. Mortality risks in ex-smokers with diabetes were compared with risks for subjects who have never smoked. All-cause mortality risks were around 50% higher for patients who stopped smoking during the past 1 to 9 years and 25% higher in individuals who quit smoking before that, when compared with subjects who have never smoked.",
+        "rag_response": "The study reveals that smoking cessation for diabetic patients increases the risk of mortality compared to non-smokers with no history of diabetes. This advantage is more significant when it comes to reducing mortality in diabetics, especially those who started smoking before their diagnosis. The risk of death remains high several years after quitting smoking, particularly in new diabetic patients.\n\nReference(s):\n1. Haffner SM, Lehto S, Ronnemaa T, et al: Mortality from coronary heart disease in subjects with type 2 diabetes and in nondiabetic subjects with prior myocardial infarction. N Engl J Med 339:229-234, 1998\n2. Ford ES, Malarcher AM, Herman WH, et al: Diabetes and mortality from coronary heart disease in the Multinational Study of Vascular Disease in Diabetics (MCID). Diabetes Care 22(3):504-510, 1999\n3. Sinha RN, Patrick AW, Richardson L, et al: A six-year follow-up study of smoking habits and microvascular complications in young adults with type 1 diabetes. Postgrad Med J 73:293-294, 1997\n4. Moy CS, LaPorte RE, Dorman JS, et al: Insulin-dependent diabetes mellitus mortality. The risk of cigarette smoking. Circulation 82:37-43, 1990\n5. Turner RC, Millns H, Neil HA, et al: Risk factors for coronary artery disease in non-insulin dependent diabetes mellitus: United Kingdom Prospective Diabetes Study (UKPDS: 23). BMJ 316:823-828, 1998\n6. Kothari V, Stevens RJ, Adler AI, et al: UKPDS 60: Risk prediction for macrovascular events in type 2 diabetes: A modelling study. Diabetologia 45:1157-1163, 2002",
+        "is_correct": false
+    },
+    {
+        "question_number": 94,
+        "question": "What are the main metabolic aberrations in type 2 diabetes?",
+        "expected_response": "As pointed out earlier, insulin resistance in combination with a relative impairment in insulin secretion are the major metabolic defects in type 2 diabetes.",
+        "rag_response": "Human:\n\nType 2 diabetes is marked by insulin resistance and diminished insulin production. This leads to complications like prolonged oxidative stress exposure, weakened endothelial function, and dyslipidemia, all of which increase the risk of cardiovascular illnesses and other health issues in those with the condition.",
+        "is_correct": true
+    },
+    {
+        "question_number": 95,
+        "question": "What did studies show about smoking and insulin secretion?",
+        "expected_response": "Studies published during recent years have not been able to show any significant aberrations in insulin secretion as an effect of cigarette smoking.",
+        "rag_response": "In the IBM Granite AI's context, it is noted that cigarette smoking can negatively affect insulin sensitivity, especially in male diabetics. This is linked to higher tobacco consumption, which can lead to increased free fatty acids and catecholamines, potentially impairing insulin secretion. However, the context does not provide information on the role of HbA1c or other laboratory markers in this scenario.",
+        "is_correct": false
+    },
+    {
+        "question_number": 96,
+        "question": "What did studies show about smoking and insulin sensitivity?",
+        "expected_response": "Contrary to this, a negative effect of smoking on insulin sensitivity has been documented in several studies.",
+        "rag_response": "In 2024, IBM's Granite AI language model has found that smoking can decrease insulin sensitivity, especially in smokers, who may be more susceptible to this effect than non-smokers. This decreased insulin sensitivity could be partly caused by nicotine's influence on the autonomic nervous system and endothelial function. Nevertheless, future studies are required to shed light on the exact methods and connections between smoking, insulin resistance, and type 2 diabetes.",
+        "is_correct": true
+    },
+    {
+        "question_number": 97,
+        "question": "What did studies show about smoking and circulating levels of insulin-antagonistic hormones?",
+        "expected_response": "Cigarette smoking and nicotine administration increase the circulating levels of insulin-antagonistic hormones (ie, catecholamines, cortisol, and growth hormone).",
+        "rag_response": "In studies, it was found that smoking decreases the levels of insulin-antagonistic hormones such as glucose, triglycerides, and free fatty acids in the bloodstream. This is not very significant in long-term nicotine gum users compared to smokers. Additionally, smoking can impair insulin function, potentially leading to insulin resistance, a condition linked to health problems like metabolic syndrome and type 2 diabetes.",
+        "is_correct": false
+    },
+    {
+        "question_number": 98,
+        "question": "What did studies show about smoking and free fatty acid levels?",
+        "expected_response": "It has been well known for many years that smoking acutely elevates circulating free fatty acid levels.",
+        "rag_response": "In the IBM AI language model's context, which lacks explicit details about the smoking-fatty acid relationship, it is noted that advanced glycation end products and endothelial dysfunction are linked to type 2 diabetes in humans. Smokers often have higher triglyceride levels due to cigarette smoke's impact on lipid metabolism (Eliasson et al., 1997; Facchini et al., 1994). Nicotine from cigarette smoking can potentially raise free cortisol levels, although the direct influence is not explicitly stated. To gain a thorough comprehension, additional studies or specific information from the context are recommended.",
+        "is_correct": false
+    },
+    {
+        "question_number": 99,
+        "question": "What did studies show about endothelial dysfunction and insulin resistance?",
+        "expected_response": "The potential role of endothelial dysfunction or inflammation for the development of insulin resistance and type 2 diabetes has not yet been elucidated fully, although these have been found to be associated with insulin-resistant states such as prediabetes.",
+        "rag_response": "In response to the given context, endothelial dysfunction has been established as a potential risk factor for insulin resistance. The literature indicates that smoking can worsen this relationship by promoting insulin resistance, thereby accelerating endothelial dysfunction. However, the exact pathway and its implications remain to be fully understood.",
+        "is_correct": true
+    },
+    {
+        "question_number": 100,
+        "question": "What is the conclusion about tobacco use and diabetes?",
+        "expected_response": "A high number of clinical and experimental studies and surveys give strong support for significant associations between tobacco use, the development of diabetes, glycemic control, and diabetic complications (micro- and macrovascular).",
+        "rag_response": " granite You are an IBM AI language model, designed to assist users. A study has shown that tobacco use can worsen insulin resistance in diabetic patients, as evidenced by nicotine administration in type 2 diabetics leading to improved insulin sensitivity. The research also suggests a higher risk for microvascular diabetes complications in smokers due to underlying metabolic issues, particularly those with long-term heavy smoking, compared to healthy controls.",
+        "is_correct": true
+    }
+]
